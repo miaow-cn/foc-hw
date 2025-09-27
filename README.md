@@ -16,7 +16,8 @@ buck & motor share the 12V supply
 
 - [x] 3-phase bridge driver - drv8323rsrgzr
 - [x] mos - iauc100n04s6n022
-- [ ] gate protect - rc, 50Ohm, todo
+- [x] gate protect - rc, 1Ohm, smbj15ca
+- [x] gate pulldown - 47KOhm
 
 
 ## MCU
