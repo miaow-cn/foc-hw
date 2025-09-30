@@ -23,7 +23,7 @@ buck & motor share the 12V supply
 ## MCU
 
 - [x] protect - lr supply, 1uh 500mΩ
-- [ ] ram
-- [ ] qspi flash
+- [x] sdram - is42s32800j-6bli
+- [ ] qspi flash - mx25l25645gz2i-08g
 - [ ] emmc
 
