@@ -181,7 +181,7 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DRV_AGND" ConstraintNetId="d22e81d1-95af-4e3c-9449-eadbc5c28e05" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+5V" ConstraintNetId="21eecb3d-d785-42a3-a600-b3f86d404503" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+3V3" ConstraintNetId="8804ce51-f40f-48e7-8214-669441f6e741" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="+3.3V" ConstraintNetId="08e8a55e-02c9-43cc-aca3-6e5e6a1a0b6a" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetQ200_4" ConstraintNetId="0e5090c1-63a0-427b-a0f2-d5f404be1862" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="TCLK" ConstraintNetId="b7adbea6-14b6-4611-8f18-ed6429d4d168" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="T0" ConstraintNetId="02be2dc4-f7e3-4c8c-b756-5024e99ceab5" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="T1" ConstraintNetId="97df413f-1c2b-4760-a50b-5311da6c1bb6" />
@@ -291,6 +291,7 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="LCD_SDA" ConstraintNetId="9ca09a37-a697-467e-8979-55a83987d996" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="T_SDA" ConstraintNetId="d22ee4b0-b636-41d0-bf6e-90ce8270daf9" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="BL" ConstraintNetId="74da4db4-7352-4469-9244-b55034b0d329" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDBG_C" ConstraintNetId="8b5d5fd4-f4ae-4976-80ab-8b3a36e1abaf" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="1007669e-6225-4dc8-92ce-9f539a63a7cf">
@@ -1378,7 +1379,7 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
-    <CNet Id="08e8a55e-02c9-43cc-aca3-6e5e6a1a0b6a">
+    <CNet Id="0e5090c1-63a0-427b-a0f2-d5f404be1862">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -2038,6 +2039,12 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
+    <CNet Id="8b5d5fd4-f4ae-4976-80ab-8b3a36e1abaf">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
   </CNets>
   <CNetClasses>
     <CNetClass Id="66db483b-21f8-4f09-9ffd-94b401bc2166" Name="All Nets" IsPredefined="true" Domain="2">
@@ -2052,6 +2059,39 @@
       <ConstraintsEx />
       <ConstraintSets />
       <CNets />
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="fae67471-60ac-488c-a840-37f29586fdef" Name="CLS_PWR" IsPredefined="false" Domain="2">
+      <Constraints>
+        <Constraint Id="0b19cda1-8b14-4a5e-9dda-f8040e8deb13" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 10mil    Min Width = 8mil    Max Width = 999mil]" Scope1="InNetClass('CLS_PWR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=999mil|MINLIMIT=8mil|PREFEREDWIDTH=10mil|MIDLAYER2_MINWIDTH=10mil|MIDLAYER2_MAXWIDTH=10mil|MIDLAYER3_MINWIDTH=10mil|MIDLAYER3_MAXWIDTH=10mil|MIDLAYER4_MINWIDTH=10mil|MIDLAYER4_MAXWIDTH=10mil|MIDLAYER5_MINWIDTH=10mil|MIDLAYER5_MAXWIDTH=10mil|MIDLAYER6_MINWIDTH=10mil|MIDLAYER6_MAXWIDTH=10mil|MIDLAYER7_MINWIDTH=10mil|MIDLAYER7_MAXWIDTH=10mil|MIDLAYER8_MINWIDTH=10mil|MIDLAYER8_MAXWIDTH=10mil|MIDLAYER9_MINWIDTH=10mil|MIDLAYER9_MAXWIDTH=10mil|MIDLAYER10_MINWIDTH=10mil|MIDLAYER10_MAXWIDTH=10mil|MIDLAYER11_MINWIDTH=10mil|MIDLAYER11_MAXWIDTH=10mil|MIDLAYER12_MINWIDTH=10mil|MIDLAYER12_MAXWIDTH=10mil|MIDLAYER13_MINWIDTH=10mil|MIDLAYER13_MAXWIDTH=10mil|MIDLAYER14_MINWIDTH=10mil|MIDLAYER14_MAXWIDTH=10mil|MIDLAYER15_MINWIDTH=10mil|MIDLAYER15_MAXWIDTH=10mil|MIDLAYER16_MINWIDTH=10mil|MIDLAYER16_MAXWIDTH=10mil|MIDLAYER17_MINWIDTH=10mil|MIDLAYER17_MAXWIDTH=10mil|MIDLAYER18_MINWIDTH=10mil|MIDLAYER18_MAXWIDTH=10mil|MIDLAYER19_MINWIDTH=10mil|MIDLAYER19_MAXWIDTH=10mil|MIDLAYER20_MINWIDTH=10mil|MIDLAYER20_MAXWIDTH=10mil|MIDLAYER21_MINWIDTH=10mil|MIDLAYER21_MAXWIDTH=10mil|MIDLAYER22_MINWIDTH=10mil|MIDLAYER22_MAXWIDTH=10mil|MIDLAYER23_MINWIDTH=10mil|MIDLAYER23_MAXWIDTH=10mil|MIDLAYER24_MINWIDTH=10mil|MIDLAYER24_MAXWIDTH=10mil|MIDLAYER25_MINWIDTH=10mil|MIDLAYER25_MAXWIDTH=10mil|MIDLAYER26_MINWIDTH=10mil|MIDLAYER26_MAXWIDTH=10mil|MIDLAYER27_MINWIDTH=10mil|MIDLAYER27_MAXWIDTH=10mil|MIDLAYER28_MINWIDTH=10mil|MIDLAYER28_MAXWIDTH=10mil|MIDLAYER29_MINWIDTH=10mil|MIDLAYER29_MAXWIDTH=10mil|MIDLAYER30_MINWIDTH=10mil|MIDLAYER30_MAXWIDTH=10mil|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="6016acb0-7c9e-4cdb-8985-048bb7e8be92" />
+        <CNet Id="8b5d5fd4-f4ae-4976-80ab-8b3a36e1abaf" />
+        <CNet Id="5f16a867-b5c7-4aac-a8b2-2d2d652f693d" />
+        <CNet Id="c525d3ad-0dff-47b6-ae9e-0f3d9a215094" />
+        <CNet Id="89eb4a0a-b48f-43b8-be2f-b4d19917aa2a" />
+        <CNet Id="0e5090c1-63a0-427b-a0f2-d5f404be1862" />
+        <CNet Id="7c1893a9-5575-4afe-ae73-9edb0e75a41e" />
+        <CNet Id="8804ce51-f40f-48e7-8214-669441f6e741" />
+        <CNet Id="21eecb3d-d785-42a3-a600-b3f86d404503" />
+      </CNets>
+      <ObservedDirectiveParamsUniqueIds />
+    </CNetClass>
+    <CNetClass Id="0ac4ee3d-bda7-4557-94c9-9240c37e3b60" Name="CLS_GND" IsPredefined="false" Domain="2">
+      <Constraints>
+        <Constraint Id="506dbfa3-a26b-4c14-9942-f6327a3bdbd4" Kind="2" Name="Schematic Width Constraint" Comment="" Description="Width Constraint [Pref Width = 10mil    Min Width = 8mil    Max Width = 999mil]" Scope1="InNetClass('CLS_GND')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=999mil|MINLIMIT=8mil|PREFEREDWIDTH=10mil|MIDLAYER2_MINWIDTH=10mil|MIDLAYER2_MAXWIDTH=10mil|MIDLAYER3_MINWIDTH=10mil|MIDLAYER3_MAXWIDTH=10mil|MIDLAYER4_MINWIDTH=10mil|MIDLAYER4_MAXWIDTH=10mil|MIDLAYER5_MINWIDTH=10mil|MIDLAYER5_MAXWIDTH=10mil|MIDLAYER6_MINWIDTH=10mil|MIDLAYER6_MAXWIDTH=10mil|MIDLAYER7_MINWIDTH=10mil|MIDLAYER7_MAXWIDTH=10mil|MIDLAYER8_MINWIDTH=10mil|MIDLAYER8_MAXWIDTH=10mil|MIDLAYER9_MINWIDTH=10mil|MIDLAYER9_MAXWIDTH=10mil|MIDLAYER10_MINWIDTH=10mil|MIDLAYER10_MAXWIDTH=10mil|MIDLAYER11_MINWIDTH=10mil|MIDLAYER11_MAXWIDTH=10mil|MIDLAYER12_MINWIDTH=10mil|MIDLAYER12_MAXWIDTH=10mil|MIDLAYER13_MINWIDTH=10mil|MIDLAYER13_MAXWIDTH=10mil|MIDLAYER14_MINWIDTH=10mil|MIDLAYER14_MAXWIDTH=10mil|MIDLAYER15_MINWIDTH=10mil|MIDLAYER15_MAXWIDTH=10mil|MIDLAYER16_MINWIDTH=10mil|MIDLAYER16_MAXWIDTH=10mil|MIDLAYER17_MINWIDTH=10mil|MIDLAYER17_MAXWIDTH=10mil|MIDLAYER18_MINWIDTH=10mil|MIDLAYER18_MAXWIDTH=10mil|MIDLAYER19_MINWIDTH=10mil|MIDLAYER19_MAXWIDTH=10mil|MIDLAYER20_MINWIDTH=10mil|MIDLAYER20_MAXWIDTH=10mil|MIDLAYER21_MINWIDTH=10mil|MIDLAYER21_MAXWIDTH=10mil|MIDLAYER22_MINWIDTH=10mil|MIDLAYER22_MAXWIDTH=10mil|MIDLAYER23_MINWIDTH=10mil|MIDLAYER23_MAXWIDTH=10mil|MIDLAYER24_MINWIDTH=10mil|MIDLAYER24_MAXWIDTH=10mil|MIDLAYER25_MINWIDTH=10mil|MIDLAYER25_MAXWIDTH=10mil|MIDLAYER26_MINWIDTH=10mil|MIDLAYER26_MAXWIDTH=10mil|MIDLAYER27_MINWIDTH=10mil|MIDLAYER27_MAXWIDTH=10mil|MIDLAYER28_MINWIDTH=10mil|MIDLAYER28_MAXWIDTH=10mil|MIDLAYER29_MINWIDTH=10mil|MIDLAYER29_MAXWIDTH=10mil|MIDLAYER30_MINWIDTH=10mil|MIDLAYER30_MAXWIDTH=10mil|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
+      <ConstraintsEx />
+      <ConstraintSets />
+      <CNets>
+        <CNet Id="cb8eab01-af8f-40ca-b38d-e479e2714aab" />
+        <CNet Id="cc49f687-e86d-4975-9bf2-539644d2b81c" />
+        <CNet Id="bb30b81c-ac37-4c5b-a22e-33929055e883" />
+        <CNet Id="d22e81d1-95af-4e3c-9449-eadbc5c28e05" />
+      </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
   </CNetClasses>
