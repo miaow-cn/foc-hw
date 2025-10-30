@@ -474,7 +474,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MSKNGCIS
 
 [Document26]
 DocumentPath=lib\mw.SchLib
@@ -491,7 +491,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SPCOHXLI
 
 [Document27]
 DocumentPath=Constraints.xml

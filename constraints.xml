@@ -97,8 +97,6 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetR1332_1" ConstraintNetId="94416618-11ec-478b-853e-f959139b1fae" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetR1362_1" ConstraintNetId="bc80c440-1950-428c-89d2-5df13c8e6125" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetR1318_1" ConstraintNetId="3bd43431-ee3f-45fe-9312-48e5640da569" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetR1343_1" ConstraintNetId="5858adc4-7137-4bef-b50f-d7f5ca306cc3" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetR1341_1" ConstraintNetId="c9c17e0f-142f-4d5c-ac81-8815e5dae533" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DRV_SNS_C" ConstraintNetId="f230fa31-c211-4f8c-98c1-825fb1e2c723" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DRV_SNS_BUS" ConstraintNetId="1dd8f705-9954-47a1-a58e-05afdbbcb00e" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="DRV_SNS_B" ConstraintNetId="9685eca9-f52f-4ee2-adef-20b0f06dce30" />
@@ -291,6 +289,10 @@
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="T_SDA" ConstraintNetId="d22ee4b0-b636-41d0-bf6e-90ce8270daf9" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="BL" ConstraintNetId="74da4db4-7352-4469-9244-b55034b0d329" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="VDBG_C" ConstraintNetId="8b5d5fd4-f4ae-4976-80ab-8b3a36e1abaf" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="ENC_A" ConstraintNetId="30b80bb2-0a32-42aa-846d-b62687339713" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="ENC_B" ConstraintNetId="5bac8aa4-160d-4351-ad27-65c2ccca3e08" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="NetU1200_A5" ConstraintNetId="8a173c76-2323-4ccc-9b8b-172aa1e364ee" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="N000-1" ConstraintNetId="1312168d-f320-470e-a52b-472bdc7e3023" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="1007669e-6225-4dc8-92ce-9f539a63a7cf">
@@ -864,18 +866,6 @@
       <ConstraintNodes />
     </CNet>
     <CNet Id="3bd43431-ee3f-45fe-9312-48e5640da569">
-      <Constraints />
-      <ConstraintsEx />
-      <ConstraintSets />
-      <ConstraintNodes />
-    </CNet>
-    <CNet Id="5858adc4-7137-4bef-b50f-d7f5ca306cc3">
-      <Constraints />
-      <ConstraintsEx />
-      <ConstraintSets />
-      <ConstraintNodes />
-    </CNet>
-    <CNet Id="c9c17e0f-142f-4d5c-ac81-8815e5dae533">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -2032,6 +2022,30 @@
       <ConstraintNodes />
     </CNet>
     <CNet Id="8b5d5fd4-f4ae-4976-80ab-8b3a36e1abaf">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="30b80bb2-0a32-42aa-846d-b62687339713">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5bac8aa4-160d-4351-ad27-65c2ccca3e08">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="8a173c76-2323-4ccc-9b8b-172aa1e364ee">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="1312168d-f320-470e-a52b-472bdc7e3023">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -4364,7 +4378,6 @@
       </ConstraintNodes>
       <CNets>
         <CNet Id="080c45bb-4050-4907-a464-2efc6c4885fb" />
-        <CNet Id="c9c17e0f-142f-4d5c-ac81-8815e5dae533" />
       </CNets>
       <CPinPairs />
     </CxNet>
@@ -4379,7 +4392,6 @@
       </ConstraintNodes>
       <CNets>
         <CNet Id="77a64ca8-be7c-455f-9466-4faf878faac7" />
-        <CNet Id="5858adc4-7137-4bef-b50f-d7f5ca306cc3" />
       </CNets>
       <CPinPairs />
     </CxNet>
