@@ -3820,6 +3820,1716 @@
         <string>\NNNSHFLG\AVQWTNAE-3</string>
       </Primitives>
     </CPinPair>
+    <CPinPair Id="b9f4ac11-721a-4327-b5d4-fe3f3cfd1235" Name="NetR1384_1_U1200-R9_U300-J3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R9</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGSUIEIJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGSUIEIJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGSUIEIJ-2</string>
+        <string>\MORILHUE\CTWZKGHE-J3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8d12fa96-4c69-449d-80be-2930ae426222" Name="NetR1382_1_U1200-P8_U300-H2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P8</string>
+        <string>\FJKBFAHS\KDDCDOBS\XFMFEZIM-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XFMFEZIM</string>
+        <string>\FJKBFAHS\KDDCDOBS\XFMFEZIM-2</string>
+        <string>\MORILHUE\CTWZKGHE-H2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0e03110e-93c0-43b2-8502-8deebe234b4d" Name="NetR1380_1_U1200-P7_U300-H1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P7</string>
+        <string>\FJKBFAHS\KDDCDOBS\MYOGPKMV-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\MYOGPKMV</string>
+        <string>\FJKBFAHS\KDDCDOBS\MYOGPKMV-2</string>
+        <string>\MORILHUE\CTWZKGHE-H1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8ad728e2-e4a7-44e0-b173-8c6dfa5c9617" Name="NetR1379_1_U1200-R7_U300-G3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R7</string>
+        <string>\FJKBFAHS\KDDCDOBS\QDLEDAKS-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\QDLEDAKS</string>
+        <string>\FJKBFAHS\KDDCDOBS\QDLEDAKS-2</string>
+        <string>\MORILHUE\CTWZKGHE-G3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="38419bd9-a5cd-4e35-bdb8-02a28a21635e" Name="NetR1369_1_U1200-J4_U300-G2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-J4</string>
+        <string>\FJKBFAHS\KDDCDOBS\TQGGXZDW-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\TQGGXZDW</string>
+        <string>\FJKBFAHS\KDDCDOBS\TQGGXZDW-2</string>
+        <string>\MORILHUE\CTWZKGHE-G2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8e6d2a20-dec2-42b3-b341-444b07aef23a" Name="NetR1368_1_U1200-J5_U300-G1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-J5</string>
+        <string>\FJKBFAHS\KDDCDOBS\YVHNESFN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\YVHNESFN</string>
+        <string>\FJKBFAHS\KDDCDOBS\YVHNESFN-2</string>
+        <string>\MORILHUE\CTWZKGHE-G1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="cdad821b-8992-4a7f-b912-c0214bdbb93f" Name="NetR1367_1_U1200-H4_U300-F3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H4</string>
+        <string>\FJKBFAHS\KDDCDOBS\FIVNLCZL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\FIVNLCZL</string>
+        <string>\FJKBFAHS\KDDCDOBS\FIVNLCZL-2</string>
+        <string>\MORILHUE\CTWZKGHE-F3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b0b7ccdc-7e49-4fd2-a677-706b1ed5279d" Name="NetR1366_1_U1200-G1_U300-F7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-G1</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZBDPMGFN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZBDPMGFN</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZBDPMGFN-2</string>
+        <string>\MORILHUE\CTWZKGHE-F7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="1c289e67-92ac-49fc-a465-80fcceee967f" Name="NetR1365_1_U1200-G3_U300-G9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-G3</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGGIJUPF-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGGIJUPF</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGGIJUPF-2</string>
+        <string>\MORILHUE\CTWZKGHE-G9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="450b77e1-382f-4c0e-b57c-ae885605f1e5" Name="NetR1363_1_U1200-G4_U300-G8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-G4</string>
+        <string>\FJKBFAHS\KDDCDOBS\EAUTTFRE-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\EAUTTFRE</string>
+        <string>\FJKBFAHS\KDDCDOBS\EAUTTFRE-2</string>
+        <string>\MORILHUE\CTWZKGHE-G8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b43cb5d0-5ef4-46b6-ba02-9d644d6f8802" Name="NetR1312_1_U1200-G14_U300-H8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-G14</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJIKRWZO-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJIKRWZO</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJIKRWZO-2</string>
+        <string>\MORILHUE\CTWZKGHE-H8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5ee9fa8b-c01a-4449-8a53-d2e88b82050f" Name="NetR1309_1_U1200-H14_U300-J7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H14</string>
+        <string>\FJKBFAHS\KDDCDOBS\YCFCISYF-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\YCFCISYF</string>
+        <string>\FJKBFAHS\KDDCDOBS\YCFCISYF-2</string>
+        <string>\MORILHUE\CTWZKGHE-J7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4905803a-9cd4-4ae3-b9da-be606c51841f" Name="NetR1304_1_U1200-U8_U300-H9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U8</string>
+        <string>\FJKBFAHS\KDDCDOBS\CWNLOOEO-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\CWNLOOEO</string>
+        <string>\FJKBFAHS\KDDCDOBS\CWNLOOEO-2</string>
+        <string>\MORILHUE\CTWZKGHE-H9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0c1aca00-19e1-4c4e-97a1-487a8db066ac" Name="NetR1301_1_U1200-T8_U300-G7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T8</string>
+        <string>\FJKBFAHS\KDDCDOBS\KZELTUXA-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KZELTUXA</string>
+        <string>\FJKBFAHS\KDDCDOBS\KZELTUXA-2</string>
+        <string>\MORILHUE\CTWZKGHE-G7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b7022d36-86a8-4152-bbee-312d28ae8c97" Name="NetR1318_1_U1200-F15_U300-J1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-F15</string>
+        <string>\FJKBFAHS\KDDCDOBS\KRXQEOWV-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KRXQEOWV</string>
+        <string>\FJKBFAHS\KDDCDOBS\KRXQEOWV-2</string>
+        <string>\MORILHUE\CTWZKGHE-J1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5c08ac39-cbda-445f-a30c-578a7be14f3c" Name="NetR1332_1_U1200-D6_U300-K7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D6</string>
+        <string>\FJKBFAHS\KDDCDOBS\IZCZKCZC-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IZCZKCZC</string>
+        <string>\FJKBFAHS\KDDCDOBS\IZCZKCZC-2</string>
+        <string>\MORILHUE\CTWZKGHE-K7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="39fb41bf-3d75-4473-bcb8-64c4db7634d8" Name="NetR1362_1_U1200-L2_U300-K8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-L2</string>
+        <string>\FJKBFAHS\KDDCDOBS\PGWQVGYM-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\PGWQVGYM</string>
+        <string>\FJKBFAHS\KDDCDOBS\PGWQVGYM-2</string>
+        <string>\MORILHUE\CTWZKGHE-K8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="17ffb28c-b359-4861-a664-e5601e7e85eb" Name="NetR1378_1_U1200-T7_U300-J9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T7</string>
+        <string>\FJKBFAHS\KDDCDOBS\HQGFKYWJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\HQGFKYWJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\HQGFKYWJ-2</string>
+        <string>\MORILHUE\CTWZKGHE-J9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="266e7697-52cf-4ac3-85ea-ffe7732e417d" Name="NetR1341_1_U1200-T11_U300-J8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T11</string>
+        <string>\FJKBFAHS\KDDCDOBS\TZEXBYOM-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\TZEXBYOM</string>
+        <string>\FJKBFAHS\KDDCDOBS\TZEXBYOM-2</string>
+        <string>\MORILHUE\CTWZKGHE-J8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="bfd531a2-4a71-415a-9348-26af8d171476" Name="NetR1343_1_U1200-U13_U300-J2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U13</string>
+        <string>\FJKBFAHS\KDDCDOBS\KKBELBOC-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KKBELBOC</string>
+        <string>\FJKBFAHS\KDDCDOBS\KKBELBOC-2</string>
+        <string>\MORILHUE\CTWZKGHE-J2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7cea923a-df48-48dd-acdd-6110d2ea5ffe" Name="NetR1329_1_U1200-P16_U300-R8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P16</string>
+        <string>\FJKBFAHS\KDDCDOBS\KATHAVVS-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KATHAVVS</string>
+        <string>\FJKBFAHS\KDDCDOBS\KATHAVVS-2</string>
+        <string>\MORILHUE\CTWZKGHE-R8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c94cbca2-1fcc-4e55-8a1d-3717c10e85b2" Name="NetR1331_1_U1200-P15_U300-N7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P15</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJQNCZMA-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJQNCZMA</string>
+        <string>\FJKBFAHS\KDDCDOBS\QJQNCZMA-2</string>
+        <string>\MORILHUE\CTWZKGHE-N7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="f5dfad52-25e6-458d-a273-dfd19c09f3f3" Name="NetR1300_1_U1200-D13_U300-R9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D13</string>
+        <string>\FJKBFAHS\KDDCDOBS\XCSZSZMJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XCSZSZMJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\XCSZSZMJ-2</string>
+        <string>\MORILHUE\CTWZKGHE-R9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="674f30f3-99a0-484b-b036-996469e55e9d" Name="NetR1303_1_U1200-E12_U300-N8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E12</string>
+        <string>\FJKBFAHS\KDDCDOBS\CTHKEUEX-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\CTHKEUEX</string>
+        <string>\FJKBFAHS\KDDCDOBS\CTHKEUEX-2</string>
+        <string>\MORILHUE\CTWZKGHE-N8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6dce943c-7f40-43f5-9782-e61c7d48a8f2" Name="NetR1346_1_U1200-U9_U300-P9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U9</string>
+        <string>\FJKBFAHS\KDDCDOBS\TOEBAOIY-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\TOEBAOIY</string>
+        <string>\FJKBFAHS\KDDCDOBS\TOEBAOIY-2</string>
+        <string>\MORILHUE\CTWZKGHE-P9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="66b75781-280a-43fe-8897-e84159c90ef9" Name="NetR1348_1_U1200-T9_U300-M8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T9</string>
+        <string>\FJKBFAHS\KDDCDOBS\HKHLBOVQ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\HKHLBOVQ</string>
+        <string>\FJKBFAHS\KDDCDOBS\HKHLBOVQ-2</string>
+        <string>\MORILHUE\CTWZKGHE-M8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="060c9297-5bde-4f85-a05e-b7ba3e112e02" Name="NetR1350_1_U1200-P9_U300-M7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P9</string>
+        <string>\FJKBFAHS\KDDCDOBS\JSWRYDIA-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\JSWRYDIA</string>
+        <string>\FJKBFAHS\KDDCDOBS\JSWRYDIA-2</string>
+        <string>\MORILHUE\CTWZKGHE-M7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="297c69d7-1e5f-4add-8614-5276708e99bf" Name="NetR1352_1_U1200-N9_U300-L8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N9</string>
+        <string>\FJKBFAHS\KDDCDOBS\SNEKSUDN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\SNEKSUDN</string>
+        <string>\FJKBFAHS\KDDCDOBS\SNEKSUDN-2</string>
+        <string>\MORILHUE\CTWZKGHE-L8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9ff85a38-5f7a-4a80-866b-a3f8dad4c608" Name="NetR1354_1_U1200-P10_U300-L2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P10</string>
+        <string>\FJKBFAHS\KDDCDOBS\DBHONPLD-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\DBHONPLD</string>
+        <string>\FJKBFAHS\KDDCDOBS\DBHONPLD-2</string>
+        <string>\MORILHUE\CTWZKGHE-L2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="133cde6a-ead5-4ede-bb48-375b8d691c8c" Name="NetR1356_1_U1200-R10_U300-M3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R10</string>
+        <string>\FJKBFAHS\KDDCDOBS\VIUNGCFX-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\VIUNGCFX</string>
+        <string>\FJKBFAHS\KDDCDOBS\VIUNGCFX-2</string>
+        <string>\MORILHUE\CTWZKGHE-M3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="928dfdb3-4745-4552-8349-4ff9a9a26f0a" Name="NetR1358_1_U1200-T10_U300-M2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T10</string>
+        <string>\FJKBFAHS\KDDCDOBS\QYEODNBR-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\QYEODNBR</string>
+        <string>\FJKBFAHS\KDDCDOBS\QYEODNBR-2</string>
+        <string>\MORILHUE\CTWZKGHE-M2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2b13299b-11c0-45c4-b8ef-e5c243ca3eff" Name="NetR1360_1_U1200-U10_U300-P1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U10</string>
+        <string>\FJKBFAHS\KDDCDOBS\IAWILLFW-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IAWILLFW</string>
+        <string>\FJKBFAHS\KDDCDOBS\IAWILLFW-2</string>
+        <string>\MORILHUE\CTWZKGHE-P1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="37c47e6b-9f94-4e88-b348-d3d0751c4eb4" Name="NetR1361_1_U1200-R11_U300-N2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R11</string>
+        <string>\FJKBFAHS\KDDCDOBS\EWWMMZTN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\EWWMMZTN</string>
+        <string>\FJKBFAHS\KDDCDOBS\EWWMMZTN-2</string>
+        <string>\MORILHUE\CTWZKGHE-N2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ee976c85-53df-4a9b-85d5-2b88a8b08b3d" Name="NetR1317_1_U1200-U16_U300-R1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U16</string>
+        <string>\FJKBFAHS\KDDCDOBS\VGPARVJE-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\VGPARVJE</string>
+        <string>\FJKBFAHS\KDDCDOBS\VGPARVJE-2</string>
+        <string>\MORILHUE\CTWZKGHE-R1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="054ba49f-0995-466d-a895-026c39a7a6bb" Name="NetR1320_1_U1200-T17_U300-N3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T17</string>
+        <string>\FJKBFAHS\KDDCDOBS\HWSPGUKZ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\HWSPGUKZ</string>
+        <string>\FJKBFAHS\KDDCDOBS\HWSPGUKZ-2</string>
+        <string>\MORILHUE\CTWZKGHE-N3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7513bbc3-eca1-4dbf-9b93-85d8a4bbc71f" Name="NetR1324_1_U1200-T16_U300-R2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T16</string>
+        <string>\FJKBFAHS\KDDCDOBS\UZHIJLSL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\UZHIJLSL</string>
+        <string>\FJKBFAHS\KDDCDOBS\UZHIJLSL-2</string>
+        <string>\MORILHUE\CTWZKGHE-R2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ba739582-a6ab-4cb0-9570-fe7c65677cdf" Name="NetR1345_1_U1200-T13_U300-E8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T13</string>
+        <string>\FJKBFAHS\KDDCDOBS\CPZEPVYL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\CPZEPVYL</string>
+        <string>\FJKBFAHS\KDDCDOBS\CPZEPVYL-2</string>
+        <string>\MORILHUE\CTWZKGHE-E8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e378a840-396d-4eca-8694-75542c8ec006" Name="NetR1347_1_U1200-R13_U300-D7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R13</string>
+        <string>\FJKBFAHS\KDDCDOBS\LRIBMNPI-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LRIBMNPI</string>
+        <string>\FJKBFAHS\KDDCDOBS\LRIBMNPI-2</string>
+        <string>\MORILHUE\CTWZKGHE-D7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7a537526-844e-4f40-b100-46c65dfaad2f" Name="NetR1349_1_U1200-P13_U300-D8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P13</string>
+        <string>\FJKBFAHS\KDDCDOBS\OGDUBIYZ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\OGDUBIYZ</string>
+        <string>\FJKBFAHS\KDDCDOBS\OGDUBIYZ-2</string>
+        <string>\MORILHUE\CTWZKGHE-D8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6125e8eb-ef56-4687-8bc3-4ae04ac2e3af" Name="NetR1351_1_U1200-P14_U300-B9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P14</string>
+        <string>\FJKBFAHS\KDDCDOBS\LGRGBLHN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LGRGBLHN</string>
+        <string>\FJKBFAHS\KDDCDOBS\LGRGBLHN-2</string>
+        <string>\MORILHUE\CTWZKGHE-B9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9406667b-cc2e-4d7c-9324-815ea2ba5a73" Name="NetR1353_1_U1200-R14_U300-C8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R14</string>
+        <string>\FJKBFAHS\KDDCDOBS\FSIOXEKL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\FSIOXEKL</string>
+        <string>\FJKBFAHS\KDDCDOBS\FSIOXEKL-2</string>
+        <string>\MORILHUE\CTWZKGHE-C8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ad479498-9703-4f90-9c74-7b9f38898e17" Name="NetR1355_1_U1200-D16_U300-A9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D16</string>
+        <string>\FJKBFAHS\KDDCDOBS\XSYUZOHQ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XSYUZOHQ</string>
+        <string>\FJKBFAHS\KDDCDOBS\XSYUZOHQ-2</string>
+        <string>\MORILHUE\CTWZKGHE-A9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6a1146de-2045-4105-9577-5127ac42fe3c" Name="NetR1357_1_U1200-B17_U300-C7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B17</string>
+        <string>\FJKBFAHS\KDDCDOBS\MMNCADLP-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\MMNCADLP</string>
+        <string>\FJKBFAHS\KDDCDOBS\MMNCADLP-2</string>
+        <string>\MORILHUE\CTWZKGHE-C7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5b57590e-ce1f-4456-a383-82e600ab1621" Name="NetR1359_1_U1200-B16_U300-A8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B16</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZURAFXSV-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZURAFXSV</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZURAFXSV-2</string>
+        <string>\MORILHUE\CTWZKGHE-A8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e6feecdf-3896-4199-9f47-62e0e6328f60" Name="NetR1302_1_U1200-A16_U300-A2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A16</string>
+        <string>\FJKBFAHS\KDDCDOBS\NEKYCEVV-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\NEKYCEVV</string>
+        <string>\FJKBFAHS\KDDCDOBS\NEKYCEVV-2</string>
+        <string>\MORILHUE\CTWZKGHE-A2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="f2ff6e8c-0951-4654-9928-526534ec5a6b" Name="NetR1305_1_U1200-A15_U300-C3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A15</string>
+        <string>\FJKBFAHS\KDDCDOBS\CFZQAGNO-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\CFZQAGNO</string>
+        <string>\FJKBFAHS\KDDCDOBS\CFZQAGNO-2</string>
+        <string>\MORILHUE\CTWZKGHE-C3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4860c4e9-a9e8-4e18-9e7c-31541363f645" Name="NetR1306_1_U1200-B15_U300-A1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B15</string>
+        <string>\FJKBFAHS\KDDCDOBS\UFKWONEP-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\UFKWONEP</string>
+        <string>\FJKBFAHS\KDDCDOBS\UFKWONEP-2</string>
+        <string>\MORILHUE\CTWZKGHE-A1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="662ba562-536b-4660-ac1a-e97b95a8d53c" Name="NetR1307_1_U1200-C14_U300-C2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C14</string>
+        <string>\FJKBFAHS\KDDCDOBS\UUWFQBKS-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\UUWFQBKS</string>
+        <string>\FJKBFAHS\KDDCDOBS\UUWFQBKS-2</string>
+        <string>\MORILHUE\CTWZKGHE-C2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="da043381-9e6b-4ef7-9fe1-ca4b0f516de3" Name="NetR1314_1_U1200-A2_U300-B1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A2</string>
+        <string>\FJKBFAHS\KDDCDOBS\WKKATIKZ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\WKKATIKZ</string>
+        <string>\FJKBFAHS\KDDCDOBS\WKKATIKZ-2</string>
+        <string>\MORILHUE\CTWZKGHE-B1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="19603e73-6848-4f0f-8d6e-00549bffaaff" Name="NetR1316_1_U1200-B3_U300-D2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B3</string>
+        <string>\FJKBFAHS\KDDCDOBS\HVIMHKGL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\HVIMHKGL</string>
+        <string>\FJKBFAHS\KDDCDOBS\HVIMHKGL-2</string>
+        <string>\MORILHUE\CTWZKGHE-D2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0883c981-aeb5-4615-a189-6166078692ac" Name="NetR1322_1_U1200-E2_U300-D3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E2</string>
+        <string>\FJKBFAHS\KDDCDOBS\XVUQDWCI-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XVUQDWCI</string>
+        <string>\FJKBFAHS\KDDCDOBS\XVUQDWCI-2</string>
+        <string>\MORILHUE\CTWZKGHE-D3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="88ced704-68ae-417c-8c51-47c3647821df" Name="NetR1325_1_U1200-F3_U300-E2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-F3</string>
+        <string>\FJKBFAHS\KDDCDOBS\YADOEOSA-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\YADOEOSA</string>
+        <string>\FJKBFAHS\KDDCDOBS\YADOEOSA-2</string>
+        <string>\MORILHUE\CTWZKGHE-E2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="20e8e5f8-2734-4cae-b805-0426442ac309" Name="NetR1333_1_U1200-C4_U300-K9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C4</string>
+        <string>\FJKBFAHS\KDDCDOBS\RTNVCYZK-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\RTNVCYZK</string>
+        <string>\FJKBFAHS\KDDCDOBS\RTNVCYZK-2</string>
+        <string>\MORILHUE\CTWZKGHE-K9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c622f569-8261-47f1-afb7-988598dde203" Name="NetR1335_1_U1200-B4_U300-K1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B4</string>
+        <string>\FJKBFAHS\KDDCDOBS\RRWMTXWU-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\RRWMTXWU</string>
+        <string>\FJKBFAHS\KDDCDOBS\RRWMTXWU-2</string>
+        <string>\MORILHUE\CTWZKGHE-K1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="30f0682a-075f-44a0-9e50-864102f59020" Name="NetR1310_1_U1200-A4_U300-F8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A4</string>
+        <string>\FJKBFAHS\KDDCDOBS\XTMIYUYD-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XTMIYUYD</string>
+        <string>\FJKBFAHS\KDDCDOBS\XTMIYUYD-2</string>
+        <string>\MORILHUE\CTWZKGHE-F8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="3317dfc1-f4c7-4f42-b382-9b62d9eb9d8d" Name="NetR1313_1_U1200-A3_U300-F2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A3</string>
+        <string>\FJKBFAHS\KDDCDOBS\OTZNHVHD-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\OTZNHVHD</string>
+        <string>\FJKBFAHS\KDDCDOBS\OTZNHVHD-2</string>
+        <string>\MORILHUE\CTWZKGHE-F2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4199053f-7bef-4797-9a1f-5e771c777bf1" Name="TMP_CH1_U1200-M4_U800-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-M4</string>
+        <string>\OSXREFRV\MHIYLPCF-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4a54eea7-83d7-452e-b54a-02d9c559cd32" Name="TMP_CH0_U1200-N3_U801-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N3</string>
+        <string>\OSXREFRV\DOUDTQOS-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2e55c80c-f64e-49db-954f-4274f2b4be8c" Name="NetR1377_1_U1200-B13_U500-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B13</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="87a5c7e9-68d8-4170-94f7-d33de30b0528" Name="NetR1377_1_U1200-B13_U501-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B13</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL</string>
+        <string>\FJKBFAHS\KDDCDOBS\PAGGAFPL-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8e4cabab-5fe3-4e43-8a83-cc56179f9cc0" Name="NetR1375_1_U1200-L3_U500-6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-L3</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="11c12299-10a0-468c-98cd-fea1613dca6b" Name="NetR1375_1_U1200-L3_U501-6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-L3</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\DQUCSEOJ-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="49a4070d-d5a3-49e3-9ab4-c3ef44dc527d" Name="NetR1330_1_U1200-D8_U501-7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D8</string>
+        <string>\FJKBFAHS\KDDCDOBS\OWWIJUZW-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\OWWIJUZW</string>
+        <string>\FJKBFAHS\KDDCDOBS\OWWIJUZW-2</string>
+        <string>\VYQGQUOT\WYCBNLOG-1</string>
+        <string>\VYQGQUOT\WYCBNLOG</string>
+        <string>\VYQGQUOT\WYCBNLOG-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d1937147-fd35-4965-b015-5c8e3e125199" Name="NetR1370_1_U1200-K2_U500-7" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-K2</string>
+        <string>\FJKBFAHS\KDDCDOBS\EECKMHIA-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\EECKMHIA</string>
+        <string>\FJKBFAHS\KDDCDOBS\EECKMHIA-2</string>
+        <string>\VYQGQUOT\BITIPHPY-1</string>
+        <string>\VYQGQUOT\BITIPHPY</string>
+        <string>\VYQGQUOT\BITIPHPY-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-7</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="02470ae9-d0c2-4e30-973d-915b904be3ed" Name="NetR1321_1_U1200-A10_U501-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A10</string>
+        <string>\FJKBFAHS\KDDCDOBS\IKENXTRH-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IKENXTRH</string>
+        <string>\FJKBFAHS\KDDCDOBS\IKENXTRH-2</string>
+        <string>\VYQGQUOT\WVAKUZXR-1</string>
+        <string>\VYQGQUOT\WVAKUZXR</string>
+        <string>\VYQGQUOT\WVAKUZXR-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="252f1b0e-4113-414d-bda4-ca140ad61e58" Name="NetR1371_1_U1200-K3_U500-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-K3</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZAUDWNYG-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZAUDWNYG</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZAUDWNYG-2</string>
+        <string>\VYQGQUOT\KAKVLFVG-1</string>
+        <string>\VYQGQUOT\KAKVLFVG</string>
+        <string>\VYQGQUOT\KAKVLFVG-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="adeee3a6-8ae3-452d-a84f-24116c848384" Name="NetR1336_1_U1200-P2_U501-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P2</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZVJEDETP-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZVJEDETP</string>
+        <string>\FJKBFAHS\KDDCDOBS\ZVJEDETP-2</string>
+        <string>\VYQGQUOT\ULLRBLCM-1</string>
+        <string>\VYQGQUOT\ULLRBLCM</string>
+        <string>\VYQGQUOT\ULLRBLCM-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8d29ca4c-b3c9-42c2-bae7-d4f1e575f883" Name="NetR1374_1_U1200-L4_U500-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-L4</string>
+        <string>\FJKBFAHS\KDDCDOBS\KNUNYRZR-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KNUNYRZR</string>
+        <string>\FJKBFAHS\KDDCDOBS\KNUNYRZR-2</string>
+        <string>\VYQGQUOT\BZEBZWFL-1</string>
+        <string>\VYQGQUOT\BZEBZWFL</string>
+        <string>\VYQGQUOT\BZEBZWFL-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="903789d9-f783-470a-9454-04e05fa2b5ee" Name="NetR1334_1_U1200-N2_U501-5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N2</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSHWVVSJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSHWVVSJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSHWVVSJ-2</string>
+        <string>\VYQGQUOT\OROKMGHD-1</string>
+        <string>\VYQGQUOT\OROKMGHD</string>
+        <string>\VYQGQUOT\OROKMGHD-2</string>
+        <string>\VYQGQUOT\MNRYNXYN-5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7c56fe9a-db22-454b-bdf1-294bca12820a" Name="NetR1373_1_U1200-K4_U500-5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-K4</string>
+        <string>\FJKBFAHS\KDDCDOBS\MPGPDTJY-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\MPGPDTJY</string>
+        <string>\FJKBFAHS\KDDCDOBS\MPGPDTJY-2</string>
+        <string>\VYQGQUOT\FWLFLJBI-1</string>
+        <string>\VYQGQUOT\FWLFLJBI</string>
+        <string>\VYQGQUOT\FWLFLJBI-2</string>
+        <string>\VYQGQUOT\VRPPXVGA-5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="816f469e-abd4-4c44-9733-b47d8b40ff6f" Name="LCD_SDA_U1200-P4_J600-40" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P4</string>
+        <string>\NNNSHFLG\TCCFFGMS-2</string>
+        <string>\NNNSHFLG\TCCFFGMS</string>
+        <string>\NNNSHFLG\TCCFFGMS-1</string>
+        <string>\NNNSHFLG\AVQWTNAE-40</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c137b817-7165-438d-89ce-4a0cdb4a3cee" Name="LCD_SCL_U1200-P3_J600-39" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P3</string>
+        <string>\NNNSHFLG\CYOMDKVV-2</string>
+        <string>\NNNSHFLG\CYOMDKVV</string>
+        <string>\NNNSHFLG\CYOMDKVV-1</string>
+        <string>\NNNSHFLG\AVQWTNAE-39</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="08d253c6-01d8-40ff-a017-ab8a77628202" Name="LCD_RST_U1200-E10_J600-8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E10</string>
+        <string>\NNNSHFLG\AVQWTNAE-8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="283df173-08cf-401b-a609-a7a055c9af7d" Name="LCD_INT_U1200-D10_J600-38" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D10</string>
+        <string>\NNNSHFLG\OOWWMBBE-2</string>
+        <string>\NNNSHFLG\OOWWMBBE</string>
+        <string>\NNNSHFLG\OOWWMBBE-1</string>
+        <string>\NNNSHFLG\AVQWTNAE-38</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="20281b8a-1614-48e4-98a3-40e3482bd784" Name="LCD_R7_U1200-G15_J600-29" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-G15</string>
+        <string>\NNNSHFLG\AVQWTNAE-29</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6bfb42fe-78b3-41eb-86cf-4069f86905ec" Name="LCD_R6_U1200-E15_J600-30" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E15</string>
+        <string>\NNNSHFLG\AVQWTNAE-30</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="fa1deb96-cc0c-460a-84de-72be3a19e6c5" Name="LCD_R5_U1200-U7_J600-31" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U7</string>
+        <string>\NNNSHFLG\AVQWTNAE-31</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="1c600ca3-da39-450f-8b30-45d1b7ad000a" Name="LCD_R4_U1200-U6_J600-33" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U6</string>
+        <string>\NNNSHFLG\AVQWTNAE-33</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7de2f40d-9569-431c-8156-1ddc2082372e" Name="LCD_R3_U1200-T6_J600-34" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T6</string>
+        <string>\NNNSHFLG\AVQWTNAE-34</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0cf99c9d-60e4-4207-a138-e53866c2b4b0" Name="LCD_R2_U1200-P6_J600-35" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P6</string>
+        <string>\NNNSHFLG\AVQWTNAE-35</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4e2c30fc-a35c-4679-a15e-0f79ac25b078" Name="LCD_R1_U1200-N6_J600-32" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N6</string>
+        <string>\NNNSHFLG\AVQWTNAE-32</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="9390cd2b-70c3-44cf-892c-c850eb58187e" Name="LCD_R0_U1200-D9_J600-28" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D9</string>
+        <string>\NNNSHFLG\AVQWTNAE-28</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="61f0672b-5889-408c-8cd9-4da4daa81ca5" Name="G7_U1200-B12_J600-21" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B12</string>
+        <string>\NNNSHFLG\AVQWTNAE-21</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="98add18a-f64d-416b-8638-b5e153ca2b29" Name="G6_U1200-J15_J600-22" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-J15</string>
+        <string>\NNNSHFLG\AVQWTNAE-22</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="919f355d-71e2-482d-b52b-71183b2d5385" Name="G5_U1200-J14_J600-23" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-J14</string>
+        <string>\NNNSHFLG\AVQWTNAE-23</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c6696146-f12f-44fd-87c9-984b8d0fc60b" Name="G4_U1200-K14_J600-25" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-K14</string>
+        <string>\NNNSHFLG\AVQWTNAE-25</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="72165039-02ca-4a7e-8070-ded8380d098f" Name="G3_U1200-A9_J600-26" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A9</string>
+        <string>\NNNSHFLG\AVQWTNAE-26</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="08a5378e-fc2a-4daa-802a-ab9f65d47d80" Name="G2_U1200-P5_J600-27" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-P5</string>
+        <string>\NNNSHFLG\AVQWTNAE-27</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="ce009d35-d11a-46b8-94d3-2c8b6487eea0" Name="G1_U1200-U5_J600-20" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U5</string>
+        <string>\NNNSHFLG\AVQWTNAE-20</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="040d98d3-e23f-41ff-ad3e-5b8786c33eb0" Name="G0_U1200-T5_J600-24" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T5</string>
+        <string>\NNNSHFLG\AVQWTNAE-24</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b2d96a66-1c31-426f-96cb-5e443df801aa" Name="B7_U1200-C7_J600-13" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C7</string>
+        <string>\NNNSHFLG\AVQWTNAE-13</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="f619d9af-e297-4f82-aab3-a7d1d5c437a7" Name="B6_U1200-A8_J600-14" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A8</string>
+        <string>\NNNSHFLG\AVQWTNAE-14</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="fd49d652-a92a-49cc-82bf-22be44f1d872" Name="B5_U1200-B8_J600-15" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B8</string>
+        <string>\NNNSHFLG\AVQWTNAE-15</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="35e0aa39-b4ef-4504-8664-c02f27a99553" Name="B4_U1200-C8_J600-17" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C8</string>
+        <string>\NNNSHFLG\AVQWTNAE-17</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="bdbe1d2d-456b-49c2-9604-7058c9a887a3" Name="B3_U1200-B10_J600-18" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B10</string>
+        <string>\NNNSHFLG\AVQWTNAE-18</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="f1bdb2e5-6e2f-4c7c-be23-9767ed693ee8" Name="B2_U1200-E14_J600-19" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E14</string>
+        <string>\NNNSHFLG\AVQWTNAE-19</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="808e4bdc-b686-422e-a63c-b8270dde0c18" Name="B1_U1200-C9_J600-16" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C9</string>
+        <string>\NNNSHFLG\AVQWTNAE-16</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d6de44a0-5290-4fbf-a199-258d135c83e4" Name="B0_U1200-D11_J600-12" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D11</string>
+        <string>\NNNSHFLG\AVQWTNAE-12</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="01eeff5b-beb3-47b1-925c-f527003e4b83" Name="LCD_VSYNC_U1200-H2_J600-10" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H2</string>
+        <string>\NNNSHFLG\AVQWTNAE-10</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="dbec4c1a-acd8-4045-9bae-6fef8b40e33c" Name="HSYNC_U1200-H1_J600-11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H1</string>
+        <string>\NNNSHFLG\AVQWTNAE-11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="970eb6a1-caa8-480c-9d34-96babecc7afd" Name="DE_U1200-D7_J600-9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D7</string>
+        <string>\NNNSHFLG\AVQWTNAE-9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d6e3f871-2fc8-4ad5-9c76-c8ebdd2defff" Name="CLK_U1200-H3_J600-37" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H3</string>
+        <string>\NNNSHFLG\AVQWTNAE-37</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="704b1b67-12b7-4b01-af18-124fa5da4e75" Name="BL_U1200-A14_J600-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-A14</string>
+        <string>\NNNSHFLG\AVQWTNAE-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="8ccbdef5-bbd2-491c-817e-2ec93560869f" Name="EMMC_D2_U1200-B9_U400-A5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B9</string>
+        <string>\PGPCAFJA\TVPOQYEI-1</string>
+        <string>\PGPCAFJA\TVPOQYEI</string>
+        <string>\PGPCAFJA\TVPOQYEI-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-A5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5ea391cc-34f5-43c3-a2b3-8ea1eb8d42b4" Name="EMMC_D1_U1200-T15_U400-A4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T15</string>
+        <string>\PGPCAFJA\HOREMRXK-1</string>
+        <string>\PGPCAFJA\HOREMRXK</string>
+        <string>\PGPCAFJA\HOREMRXK-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-A4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e2027095-c3e3-4bf0-95de-eec4e25f0625" Name="EMMC_D0_U1200-U15_U400-A3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U15</string>
+        <string>\PGPCAFJA\CQTHTLCE-1</string>
+        <string>\PGPCAFJA\CQTHTLCE</string>
+        <string>\PGPCAFJA\CQTHTLCE-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-A3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="040b25bd-f92d-416d-8ff3-f58c8c52f047" Name="EMMC_CLK_U1200-B11_U400-M6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B11</string>
+        <string>\PGPCAFJA\LMHOMXJO-1</string>
+        <string>\PGPCAFJA\LMHOMXJO</string>
+        <string>\PGPCAFJA\LMHOMXJO-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-M6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="576ed11e-e97a-4f73-b735-0b1d45f4d2e0" Name="CMD_U1200-C11_U400-M5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C11</string>
+        <string>\PGPCAFJA\QYNKYQJX-1</string>
+        <string>\PGPCAFJA\QYNKYQJX</string>
+        <string>\PGPCAFJA\QYNKYQJX-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-M5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="88734136-b840-4f55-8a1e-fcd63b7adaf4" Name="EMMC_D7_U1200-F13_U400-B6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-F13</string>
+        <string>\PGPCAFJA\EMZBVMZZ-1</string>
+        <string>\PGPCAFJA\EMZBVMZZ</string>
+        <string>\PGPCAFJA\EMZBVMZZ-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-B6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="83b668b6-51ef-4cd4-b0c9-b24f6b0d191b" Name="EMMC_D6_U1200-F14_U400-B5" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-F14</string>
+        <string>\PGPCAFJA\QDMWDNWH-1</string>
+        <string>\PGPCAFJA\QDMWDNWH</string>
+        <string>\PGPCAFJA\QDMWDNWH-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-B5</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5b88f07a-de12-4c90-8cf1-03a00618f29d" Name="EMMC_D5_U1200-D4_U400-B4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D4</string>
+        <string>\PGPCAFJA\LRJXRKFF-1</string>
+        <string>\PGPCAFJA\LRJXRKFF</string>
+        <string>\PGPCAFJA\LRJXRKFF-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-B4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="de1ddbbc-9b5f-454d-b700-c49f9e1097c4" Name="EMMC_D4_U1200-D5_U400-B3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D5</string>
+        <string>\PGPCAFJA\EOVNLFSC-1</string>
+        <string>\PGPCAFJA\EOVNLFSC</string>
+        <string>\PGPCAFJA\EOVNLFSC-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-B3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="a45801de-1665-4e84-a9bd-af3468003619" Name="EMMC_D3_U1200-B7_U400-B2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B7</string>
+        <string>\PGPCAFJA\DMPNBTCR-1</string>
+        <string>\PGPCAFJA\DMPNBTCR</string>
+        <string>\PGPCAFJA\DMPNBTCR-2</string>
+        <string>\PGPCAFJA\GPQIHPRD-B2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7ef13be8-b281-4884-b51c-bb7171b815ba" Name="DRV_SNS_A_U1200-T1_U900-25" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T1</string>
+        <string>\DYAITDVS\HIHFKVMX-1</string>
+        <string>\DYAITDVS\HIHFKVMX</string>
+        <string>\DYAITDVS\HIHFKVMX-2</string>
+        <string>\DYAITDVS\DEFQGWGO-25</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="99df4b43-722b-438f-a764-0aca683c642e" Name="DRV_SNS_B_U1200-T2_U900-24" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T2</string>
+        <string>\DYAITDVS\ZFPYQQHT-1</string>
+        <string>\DYAITDVS\ZFPYQQHT</string>
+        <string>\DYAITDVS\ZFPYQQHT-2</string>
+        <string>\DYAITDVS\DEFQGWGO-24</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="15357ac4-2fbf-4268-a260-29ad2ad1197a" Name="DRV_SNS_C_U1200-T4_U900-23" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T4</string>
+        <string>\DYAITDVS\DOYQRDEE-1</string>
+        <string>\DYAITDVS\DOYQRDEE</string>
+        <string>\DYAITDVS\DOYQRDEE-2</string>
+        <string>\DYAITDVS\DEFQGWGO-23</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d19ae565-a23a-4e29-ab69-b938234304b1" Name="NetR1326_1_U1200-E17_U900-41" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E17</string>
+        <string>\FJKBFAHS\KDDCDOBS\XXWKSXIE-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XXWKSXIE</string>
+        <string>\FJKBFAHS\KDDCDOBS\XXWKSXIE-2</string>
+        <string>\DYAITDVS\DEFQGWGO-41</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2f5de6dc-9384-42d9-a135-e74e1f290c4b" Name="NetR1323_1_U1200-D14_U900-39" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D14</string>
+        <string>\FJKBFAHS\KDDCDOBS\LUSBSANN-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LUSBSANN</string>
+        <string>\FJKBFAHS\KDDCDOBS\LUSBSANN-2</string>
+        <string>\DYAITDVS\DEFQGWGO-39</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2c66b486-e4a9-49ad-914b-30572f296a19" Name="NetR1319_1_U1200-D15_U900-37" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D15</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSEZRBKH-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSEZRBKH</string>
+        <string>\FJKBFAHS\KDDCDOBS\LSEZRBKH-2</string>
+        <string>\DYAITDVS\DEFQGWGO-37</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e8b9fd6a-2a42-4f77-9206-d46673e807a5" Name="9_34_U1200-H17_U900-34" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H17</string>
+        <string>\DYAITDVS\DEFQGWGO-34</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="48c64e8e-8387-46d5-91ba-24a6202f64ee" Name="9_33_U1301-4_U900-33" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\JZTKAIYK-4</string>
+        <string>\DYAITDVS\DEFQGWGO-33</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="11c54db4-c12e-4d72-8d0f-aebcc8fd0a34" Name="NetR1308_1_U1200-U3_U900-32" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U3</string>
+        <string>\FJKBFAHS\KDDCDOBS\RCMGMXPI-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\RCMGMXPI</string>
+        <string>\FJKBFAHS\KDDCDOBS\RCMGMXPI-2</string>
+        <string>\DYAITDVS\HIVNUDHL-1</string>
+        <string>\DYAITDVS\HIVNUDHL</string>
+        <string>\DYAITDVS\HIVNUDHL-2</string>
+        <string>\DYAITDVS\DEFQGWGO-32</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="50237161-3f87-455d-bac9-25b3cc8873b7" Name="NetR1311_1_U1200-T3_U900-31" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-T3</string>
+        <string>\FJKBFAHS\KDDCDOBS\CYQKIODV-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\CYQKIODV</string>
+        <string>\FJKBFAHS\KDDCDOBS\CYQKIODV-2</string>
+        <string>\DYAITDVS\QAGMDHOI-1</string>
+        <string>\DYAITDVS\QAGMDHOI</string>
+        <string>\DYAITDVS\QAGMDHOI-2</string>
+        <string>\DYAITDVS\DEFQGWGO-31</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="00101280-0387-4a10-a595-173e5b4f1570" Name="NetR1315_1_U1200-R5_U900-30" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R5</string>
+        <string>\FJKBFAHS\KDDCDOBS\VMSKLAKE-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\VMSKLAKE</string>
+        <string>\FJKBFAHS\KDDCDOBS\VMSKLAKE-2</string>
+        <string>\DYAITDVS\DEFQGWGO-30</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="00a01859-76b7-4545-b422-65b9bb568c3d" Name="DRV_SDO_U1200-R3_U900-29" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R3</string>
+        <string>\DYAITDVS\OUIICQIL-1</string>
+        <string>\DYAITDVS\OUIICQIL</string>
+        <string>\DYAITDVS\OUIICQIL-2</string>
+        <string>\DYAITDVS\DEFQGWGO-29</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="45a8eb2f-2aed-4c0d-a463-700b9ff04554" Name="DRV_FLT_U1200-H16_U900-28" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-H16</string>
+        <string>\DYAITDVS\CUKFFSIS-1</string>
+        <string>\DYAITDVS\CUKFFSIS</string>
+        <string>\DYAITDVS\CUKFFSIS-2</string>
+        <string>\DYAITDVS\DEFQGWGO-28</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="4bb905b5-d142-4550-9033-d6ef84f0e33a" Name="DBG_D_TX_U1200-C12_U713-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C12</string>
+        <string>\CBKPPJPH\AGXWKICU-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e7862c50-8ba4-40f1-8ab2-14027f73581a" Name="DBG_D_RX_U1200-D12_U713-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D12</string>
+        <string>\CBKPPJPH\AGXWKICU-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="cc046299-ba74-4b35-a316-8ce84fb6c91a" Name="DBG_C_TX_U1200-N5_U713-4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N5</string>
+        <string>\CBKPPJPH\AGXWKICU-4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6a65aa29-8e60-49a9-ae52-1fd2bd2548fe" Name="DBG_C_RX_U1200-N4_U713-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N4</string>
+        <string>\CBKPPJPH\AGXWKICU-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b98eefa2-d738-4867-8ba1-78b58e100cc3" Name="DBG_A_RX_U1200-U2_U707-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-U2</string>
+        <string>\CBKPPJPH\IXLFREPZ-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="729ad095-adf6-4e89-9210-fa9c11c69b2e" Name="NetR1344_1_U1200-E5_U704-11" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E5</string>
+        <string>\FJKBFAHS\KDDCDOBS\XJRXJMZF-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\XJRXJMZF</string>
+        <string>\FJKBFAHS\KDDCDOBS\XJRXJMZF-2</string>
+        <string>\CBKPPJPH\CAIQFXEA-11</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="e6f71ac3-499d-4321-8145-0f99d76d3c13" Name="NetR1342_1_U1200-D1_U704-12" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGOZWLLI-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGOZWLLI</string>
+        <string>\FJKBFAHS\KDDCDOBS\IGOZWLLI-2</string>
+        <string>\CBKPPJPH\CAIQFXEA-12</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="51a8432f-0fec-4fd9-abde-f325fe84a16b" Name="NetR1340_1_U1200-D2_U704-13" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D2</string>
+        <string>\FJKBFAHS\KDDCDOBS\SACDMUPQ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\SACDMUPQ</string>
+        <string>\FJKBFAHS\KDDCDOBS\SACDMUPQ-2</string>
+        <string>\CBKPPJPH\CAIQFXEA-13</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7c258217-1169-493f-8977-08664fe1bd26" Name="NetR1339_1_U1200-D3_U704-14" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-D3</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLERSRNE-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLERSRNE</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLERSRNE-2</string>
+        <string>\CBKPPJPH\CAIQFXEA-14</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="aa336a72-b8c5-4e12-86c8-fe49310867b0" Name="NetR1338_1_U1200-C6_U700-8" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C6</string>
+        <string>\FJKBFAHS\KDDCDOBS\LXTFBLNM-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LXTFBLNM</string>
+        <string>\FJKBFAHS\KDDCDOBS\LXTFBLNM-2</string>
+        <string>\CBKPPJPH\CLUTJDCQ-8</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="d2290cfd-f7e0-4d05-9dc3-ef09b5d13e29" Name="NetR1337_1_U1200-C3_U704-15" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C3</string>
+        <string>\FJKBFAHS\KDDCDOBS\TENZNIWZ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\TENZNIWZ</string>
+        <string>\FJKBFAHS\KDDCDOBS\TENZNIWZ-2</string>
+        <string>\CBKPPJPH\CAIQFXEA-15</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0a207ab9-6395-4c7b-86ca-c55bfa8ab147" Name="NetR1328_1_U1200-C15_U702-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-C15</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLVOAHVJ-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLVOAHVJ</string>
+        <string>\FJKBFAHS\KDDCDOBS\KLVOAHVJ-2</string>
+        <string>\CBKPPJPH\GQMTZMGB-1</string>
+        <string>\CBKPPJPH\GQMTZMGB</string>
+        <string>\CBKPPJPH\GQMTZMGB-2</string>
+        <string>\CBKPPJPH\SJMXQJCC-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="35afac0a-eace-4cf6-a507-f12d6247b649" Name="SWCLK_U1200-B14_U700-9" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-B14</string>
+        <string>\CBKPPJPH\XSRNJUHX-1</string>
+        <string>\CBKPPJPH\XSRNJUHX</string>
+        <string>\CBKPPJPH\XSRNJUHX-2</string>
+        <string>\CBKPPJPH\CLUTJDCQ-9</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="27be7703-7cdc-4f82-8066-8ef0557635eb" Name="TO_DBG3_U1200-L14_U706-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-L14</string>
+        <string>\CBKPPJPH\UHZWDXHH-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="249d20ba-ac27-4f72-99c4-83c59a13df69" Name="TO_DBG2_U1200-M14_U706-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-M14</string>
+        <string>\CBKPPJPH\UHZWDXHH-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="736cd870-67dc-4e60-b116-ba695ee17597" Name="TO_DBG1_U1200-N14_U705-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-N14</string>
+        <string>\CBKPPJPH\KWFZVJQV-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5e3c8f4e-e5c5-4965-a57b-a1b4ea4cc0bd" Name="TO_DBG0_U1200-R15_U705-1" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R15</string>
+        <string>\CBKPPJPH\KWFZVJQV-1</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="7a67ce1c-1a39-46a1-90b2-764f53f5ae4f" Name="FR_DBG3_U1200-F4_U709-4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-F4</string>
+        <string>\CBKPPJPH\YZHVWCWF-4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="fd940332-30fb-4fd2-999b-bc3e1b66936a" Name="FR_DBG2_U1200-E4_U709-6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E4</string>
+        <string>\CBKPPJPH\YZHVWCWF-6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="c7b04c0a-20f3-4f67-81eb-666eb99fb83a" Name="FR_DBG1_U1200-E7_U708-4" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E7</string>
+        <string>\CBKPPJPH\MXSIACXL-4</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="0486c582-1b83-46fa-a71c-77b62586a709" Name="BOOT0_U1200-E8_U708-6" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E8</string>
+        <string>\CBKPPJPH\MXSIACXL-6</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="841fd602-cbbd-4fcf-b26e-89ea450e4d03" Name="DBG_SDA_U1200-R16_U712-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R16</string>
+        <string>\CBKPPJPH\EBVZWMOG-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="30cafce8-0f97-49a1-a297-9f6869fa3dd9" Name="NetR1327_1_U1200-E16_U714-15" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-E16</string>
+        <string>\FJKBFAHS\KDDCDOBS\SKCNMKMH-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\SKCNMKMH</string>
+        <string>\FJKBFAHS\KDDCDOBS\SKCNMKMH-2</string>
+        <string>\CBKPPJPH\NVZRVCNY-15</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="5bbcf8c6-1bc5-4c33-8caf-dfc3f370a6c3" Name="DBG_SCL_U1200-R17_U712-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R17</string>
+        <string>\CBKPPJPH\EBVZWMOG-3</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="2ae08f00-ecb2-4a83-915f-ea87becc259a" Name="NetR1364_1_U1200-M2_U714-14" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-M2</string>
+        <string>\FJKBFAHS\KDDCDOBS\LNZGLQRB-1</string>
+        <string>\FJKBFAHS\KDDCDOBS\LNZGLQRB</string>
+        <string>\FJKBFAHS\KDDCDOBS\LNZGLQRB-2</string>
+        <string>\CBKPPJPH\NVZRVCNY-14</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="6018d09e-59a7-44cb-8488-dee84990c08c" Name="DBG_MISO_U1200-M3_U714-13" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-M3</string>
+        <string>\CBKPPJPH\DCSBYEOZ-2</string>
+        <string>\CBKPPJPH\DCSBYEOZ</string>
+        <string>\CBKPPJPH\DCSBYEOZ-1</string>
+        <string>\CBKPPJPH\NVZRVCNY-13</string>
+      </Primitives>
+    </CPinPair>
   </CPinPairs>
   <CxSigClasses>
     <CxSigClass Id="fe92fc3a-d563-4c6b-b42c-2f3eec686222" Name="XCLS_SDRAM_ADR" IsPredefined="false">
@@ -4124,7 +5834,9 @@
   </CxSigClasses>
   <CxNets>
     <CxNet Id="14b50e80-9a92-46ab-933a-fa7476503fc1" Name="A0">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="0e0de743-4240-4964-bf84-a4110f721600" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\EAUTTFRE,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4139,13 +5851,15 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="1596a335-cb82-4e9d-8b72-a9efade7bb0e" Name="A1">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="5a286aa6-8773-48b0-8d78-7416ffa2465c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\IGGIJUPF,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="b91ba93d-2a55-4426-adb5-431cdeff776a" PinUniqueId="LPSHDHHO" ComponentUniqueId="\MORILHUE\CTWZKGHE" FromToIndex="1" FromToRole="2" FromToOrderId="3" />
-        <ConstraintNode Id="dffce37c-26b2-42a0-abbb-c04b5051f56f" PinUniqueId="" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\IGGIJUPF" FromToIndex="1" FromToRole="0" FromToOrderId="2" />
-        <ConstraintNode Id="9fe36a5d-751e-417f-bbb7-d178998d5ee9" PinUniqueId="PZBUWGYH" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="b91ba93d-2a55-4426-adb5-431cdeff776a" PinUniqueId="LPSHDHHO" ComponentUniqueId="\MORILHUE\CTWZKGHE" FromToIndex="2" FromToRole="2" FromToOrderId="3" />
+        <ConstraintNode Id="dffce37c-26b2-42a0-abbb-c04b5051f56f" PinUniqueId="" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\IGGIJUPF" FromToIndex="2" FromToRole="0" FromToOrderId="2" />
+        <ConstraintNode Id="9fe36a5d-751e-417f-bbb7-d178998d5ee9" PinUniqueId="PZBUWGYH" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="2" FromToRole="1" FromToOrderId="1" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="eaf9b05c-5d7d-49ca-a220-e681ac951e65" />
@@ -4154,7 +5868,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="a7803f73-97ed-400e-b3b0-14fb65f94c4b" Name="A2">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="ff377001-7d25-4e5e-b705-b02befd53c83" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\ZBDPMGFN,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4169,7 +5885,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="390196d5-09b8-48c7-9807-e1602bc18daa" Name="A3">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="1c7fcb08-0bdb-4c4a-a259-ba4c1413bba8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A3')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\FIVNLCZL,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4184,7 +5902,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="a7a6bac1-050d-433e-b320-16f5de2247c9" Name="A4">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="a93e9866-383b-42c7-ae57-6a752c54dec7" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A4')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\YVHNESFN,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4199,7 +5919,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="41b94ea8-b1e3-4baf-96c6-753f3f51b4d1" Name="A5">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="ebc36fb6-a0c7-41fe-b2db-b55c8350bf88" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A5')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\TQGGXZDW,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4214,7 +5936,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="78dc9ddd-e15e-4fa5-96ff-293ba6bfcf03" Name="A6">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="26ba7e32-51e5-4dca-b3b9-27ad48332c72" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A6')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\QDLEDAKS,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4229,7 +5953,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="b0b97ba0-1188-4b70-b7f7-2252f1a34822" Name="A7">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="b4bcad2e-6446-48f8-ba09-2a0481a28dc0" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A7')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\MYOGPKMV,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4244,7 +5970,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="0447acbc-968e-4ee3-b840-0d573d3095b8" Name="A8">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="6f0d9097-35c8-4d69-ac2f-998c0e86436f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A8')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\XFMFEZIM,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4259,7 +5987,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="2df9bac5-77d5-466e-b48c-a6a0c6c1b919" Name="A9">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="ebb15654-db12-4ab3-a465-78548673e663" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A9')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\IGSUIEIJ,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4274,7 +6004,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="bdc987f7-7499-4923-abb9-acf95c6d916b" Name="A10">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="4cb4348c-08b0-43c7-99a7-5a1af1c9c113" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A10')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\KZELTUXA,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4289,7 +6021,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="9b817376-b238-485c-830d-526ea6029bb8" Name="A11">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="0d9d9ac0-5087-40c9-84ff-a7c38f8918c7" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('A11')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\CWNLOOEO,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4304,7 +6038,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="b44bec5f-6050-4867-90d5-28b93a4bdc79" Name="BA0">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="215bcaae-a487-4cc6-9790-d9eb54d85f46" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('BA0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\YCFCISYF,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4319,7 +6055,9 @@
       <CPinPairs />
     </CxNet>
     <CxNet Id="3435194d-97d6-47e8-aad7-244f81901853" Name="BA1">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="c321ad2d-a3f1-4894-a2e7-47508ca854d9" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('BA1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\QJIKRWZO,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
@@ -4433,7 +6171,7 @@
     </CxNet>
     <CxNet Id="2e919249-7f93-4a39-8854-f95cc81162f4" Name="D0">
       <Constraints>
-        <Constraint Id="a04e4f71-a385-4f7f-a3aa-1eb51eb2e056" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('D0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\KATHAVVS,0,2,2;\MORILHUE\CTWZKGHE,2,3,2" />
+        <Constraint Id="a04e4f71-a385-4f7f-a3aa-1eb51eb2e056" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('D0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\KATHAVVS,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5233,7 +6971,7 @@
     </CxNet>
     <CxNet Id="c90a84e2-b198-49ca-9ef5-79b8af95b9f9" Name="CMD">
       <Constraints>
-        <Constraint Id="c44a3073-8590-4aba-b2d7-cbcb6e7edbf8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CMD')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\QYNKYQJX,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2" />
+        <Constraint Id="c44a3073-8590-4aba-b2d7-cbcb6e7edbf8" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('CMD')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\QYNKYQJX,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5250,7 +6988,7 @@
     </CxNet>
     <CxNet Id="9467bf8b-fa17-4e8e-9b52-09dd4e7f654e" Name="EMMC_CLK">
       <Constraints>
-        <Constraint Id="58954d51-52a5-48e7-bb2c-52030e637e8f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_CLK')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\LMHOMXJO,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2" />
+        <Constraint Id="58954d51-52a5-48e7-bb2c-52030e637e8f" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_CLK')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\LMHOMXJO,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5267,7 +7005,7 @@
     </CxNet>
     <CxNet Id="439a00a8-cf2e-40d8-a2dc-928a8d56b1c4" Name="EMMC_D0">
       <Constraints>
-        <Constraint Id="8ceda99d-e781-41ee-bcc0-175dcdc340d1" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\CQTHTLCE,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2" />
+        <Constraint Id="8ceda99d-e781-41ee-bcc0-175dcdc340d1" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D0')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\CQTHTLCE,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5284,7 +7022,7 @@
     </CxNet>
     <CxNet Id="11431f7f-56a0-46b1-9d94-78057e441705" Name="EMMC_D1">
       <Constraints>
-        <Constraint Id="cdfa6fec-83f5-4d05-b8fa-e7ec3a6d0361" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\HOREMRXK,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2" />
+        <Constraint Id="cdfa6fec-83f5-4d05-b8fa-e7ec3a6d0361" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\HOREMRXK,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5301,7 +7039,7 @@
     </CxNet>
     <CxNet Id="b055189d-f66a-4ff0-8b78-74a345fcdb03" Name="EMMC_D2">
       <Constraints>
-        <Constraint Id="c159e634-7d1d-41e7-b949-70888931d71c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\TVPOQYEI,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2" />
+        <Constraint Id="c159e634-7d1d-41e7-b949-70888931d71c" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('EMMC_D2')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\PGPCAFJA\TVPOQYEI,0,2,2;\PGPCAFJA\GPQIHPRD,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -5789,51 +7527,12 @@
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="a2259437-5626-4346-9acc-753f76c90ff8" PinUniqueId="NSJVFVNY" ComponentUniqueId="\CBKPPJPH\IXLFREPZ" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
         <ConstraintNode Id="b7fb6aa4-5b00-4874-ad19-ed52ae18b68d" PinUniqueId="DOSGKYUA" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="0ea74cbe-fcdb-4c55-99ce-23b0d0f85ba1" PinUniqueId="GJQOLNSU" ComponentUniqueId="\CBKPPJPH\IXLFREPZ" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="079d1ade-de5a-4cf3-85fb-1e8521fa75b1" />
       </CNets>
-      <CPinPairs />
-    </CxNet>
-    <CxNet Id="6da46189-4413-44b4-9f52-98826d07f90b" Name="DBG_A_TX">
-      <Constraints>
-        <Constraint Id="999a9809-524c-480c-b968-c13e258d0136" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_A_TX')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\IXLFREPZ,2,2,1" />
-      </Constraints>
-      <ConstraintsEx />
-      <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="a4714711-272c-46a5-b270-b417dec00c2c" PinUniqueId="VABPEBVI" ComponentUniqueId="\CBKPPJPH\IXLFREPZ" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="fc5df257-600b-45b7-bc8a-e2bc6b1b206b" PinUniqueId="ITZYATFC" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
-      </ConstraintNodes>
-      <CNets />
-      <CPinPairs />
-    </CxNet>
-    <CxNet Id="96003dd4-da99-4104-ba2e-401106df59a9" Name="DBG_B_RX">
-      <Constraints>
-        <Constraint Id="e46a2a70-8b91-4711-a865-d2a6c0dc88b3" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_B_RX')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\IXLFREPZ,2,2,1" />
-      </Constraints>
-      <ConstraintsEx />
-      <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="d9d754b9-2eb6-45a5-b6bd-6ae770af333e" PinUniqueId="FPHEJRWV" ComponentUniqueId="\CBKPPJPH\IXLFREPZ" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="73a528c5-61e0-4983-ab04-e209e2cd5d5f" PinUniqueId="YKCBPOGV" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
-      </ConstraintNodes>
-      <CNets />
-      <CPinPairs />
-    </CxNet>
-    <CxNet Id="de68d8f6-cf06-4c73-be44-020ca1be30ed" Name="DBG_B_TX">
-      <Constraints>
-        <Constraint Id="ae866042-1ca1-40a9-b790-879df701a5a1" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_B_TX')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\IXLFREPZ,2,2,1" />
-      </Constraints>
-      <ConstraintsEx />
-      <ConstraintSets />
-      <ConstraintNodes>
-        <ConstraintNode Id="98fefe9c-e077-4457-87f6-141a716a494f" PinUniqueId="GJQOLNSU" ComponentUniqueId="\CBKPPJPH\IXLFREPZ" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="aec1f733-6c4a-4fc4-a53e-8bd98bef85ea" PinUniqueId="UUYNYAWT" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
-      </ConstraintNodes>
-      <CNets />
       <CPinPairs />
     </CxNet>
     <CxNet Id="1c136d78-1d7e-4464-b7ff-19ce6c8a2d21" Name="DBG_C_RX">
@@ -5843,8 +7542,8 @@
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="c0d53df7-886f-43f8-9464-d0ac6f32972a" PinUniqueId="GPMFWKVB" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
         <ConstraintNode Id="eba244ec-eaa5-4e5f-a086-74819f4ff7d2" PinUniqueId="HICCTWAT" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="7d86ef92-7eec-4286-ae55-efaa66d06b3b" PinUniqueId="ZKNUFYCV" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="9bc67c16-ee25-4b1f-b82c-905150c1d296" />
@@ -5858,8 +7557,8 @@
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="6ec7915a-e911-4a06-a80f-426cfb3f32e9" PinUniqueId="YTUBZKSO" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
         <ConstraintNode Id="af1e1db9-53e8-4d42-b93f-0396fe93dd61" PinUniqueId="IPFGDBUP" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="8609184c-ba3a-4825-8d6f-e75be05972a7" PinUniqueId="WRAEUKTO" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="f028ee7a-d916-4ca2-8ee9-a465b763a967" />
@@ -5873,8 +7572,8 @@
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="877474f7-712b-45ab-91ae-c9a7157f13dc" PinUniqueId="WRAEUKTO" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
         <ConstraintNode Id="15d692aa-5601-4181-8e69-bcc0e8b19a6d" PinUniqueId="AXCJEVMW" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="a30f4b0d-b254-46d2-879b-4148cfa469ae" PinUniqueId="YTUBZKSO" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="77fa5fbd-c810-44a0-8949-46904142aa1d" />
@@ -5888,8 +7587,8 @@
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="204ccf81-ddc9-481b-b238-38339f127d15" PinUniqueId="ZKNUFYCV" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
         <ConstraintNode Id="2a21b256-81b3-4dfa-92ea-2300debfb162" PinUniqueId="YCDJWJQI" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="8047044f-fe2a-481a-99c1-50cf7f0953dc" PinUniqueId="GPMFWKVB" ComponentUniqueId="\CBKPPJPH\AGXWKICU" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="777aaa3b-f36d-401e-86c1-2cdf6ac007e5" />
@@ -6414,7 +8113,7 @@
     </CxNet>
     <CxNet Id="860c1914-4005-41c6-ac62-8bd372c5822b" Name="BL">
       <Constraints>
-        <Constraint Id="d7c01c99-6ccd-4f0c-86c9-dac648f893ba" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('BL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\NNNSHFLG\AVQWTNAE,2,2,2" />
+        <Constraint Id="d7c01c99-6ccd-4f0c-86c9-dac648f893ba" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('BL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\NNNSHFLG\AVQWTNAE,2,2,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -6429,7 +8128,7 @@
     </CxNet>
     <CxNet Id="f3439279-c860-4160-92dc-8e45a8310cf7" Name="NetR1343_1">
       <Constraints>
-        <Constraint Id="4777600b-115d-49a8-86c4-ce456c3eac37" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('NetR1343_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\KKBELBOC,0,2,2;\MORILHUE\CTWZKGHE,2,3,2" />
+        <Constraint Id="4777600b-115d-49a8-86c4-ce456c3eac37" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('NetR1343_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\KKBELBOC,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -6446,7 +8145,7 @@
     </CxNet>
     <CxNet Id="1a39d821-274b-40c1-b9a4-45ed7796d64e" Name="NetR1341_1">
       <Constraints>
-        <Constraint Id="554d7d32-91ac-49a1-8241-c3e60555c236" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('NetR1341_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\TZEXBYOM,0,2,2;\MORILHUE\CTWZKGHE,2,3,2" />
+        <Constraint Id="554d7d32-91ac-49a1-8241-c3e60555c236" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('NetR1341_1')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,2;\FJKBFAHS\KDDCDOBS\TZEXBYOM,0,2,2;\MORILHUE\CTWZKGHE,2,3,2|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -6562,7 +8261,7 @@
     </CxNet>
     <CxNet Id="c16e4ebf-348d-4ebd-8149-abb50d1507f4" Name="9_25">
       <Constraints>
-        <Constraint Id="97e730e6-52b3-4e9d-9d03-29ce449040fd" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_25')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\HIHFKVMX,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4" />
+        <Constraint Id="97e730e6-52b3-4e9d-9d03-29ce449040fd" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_25')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\HIHFKVMX,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -6579,7 +8278,7 @@
     </CxNet>
     <CxNet Id="11715716-1685-49de-a5c7-d870b99c6a26" Name="9_24">
       <Constraints>
-        <Constraint Id="d9f93804-bf90-4982-b8e5-7bfa8868c385" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_24')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\ZFPYQQHT,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4" />
+        <Constraint Id="d9f93804-bf90-4982-b8e5-7bfa8868c385" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_24')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\ZFPYQQHT,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
@@ -6596,7 +8295,7 @@
     </CxNet>
     <CxNet Id="ccc50b59-7f3d-4b32-9e5e-1872b5a93ccb" Name="9_23">
       <Constraints>
-        <Constraint Id="359b091f-f2ba-4ba9-bd25-c48be7d6bf91" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_23')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\DOYQRDEE,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4" />
+        <Constraint Id="359b091f-f2ba-4ba9-bd25-c48be7d6bf91" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('9_23')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,4;\DYAITDVS\DOYQRDEE,0,2,4;\DYAITDVS\DEFQGWGO,2,3,4|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
