@@ -427,23 +427,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=pcb\miaow-foc-board.pcbdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BDGMVCUL
-
-[Document24]
 DocumentPath=sch\misc.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1400
@@ -460,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHRWWUAQ
 
-[Document25]
+[Document24]
 DocumentPath=lib\mw.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSKNGCIS
 
-[Document26]
+[Document25]
 DocumentPath=lib\mw.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPCOHXLI
 
-[Document27]
+[Document26]
 DocumentPath=Constraints.xml
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=sch\encoder.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -527,6 +510,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document28]
+DocumentPath=pcb\miaow-foc-board.pcbdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OUHGWGWA
 
 [ProjectVariant1]
 UniqueId=cd68d0cf-1c21-49ab-b0d2-58b90d9a951d
