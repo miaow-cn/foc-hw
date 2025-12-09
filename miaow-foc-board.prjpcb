@@ -813,6 +813,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1092,6 +1097,8 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1181,6 +1188,7 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1346,6 +1354,8 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1434,6 +1444,30 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3V3|NetColor=$00CC33FF
+Net2=NetName=+5V|NetColor=$00CC33FF
+Net3=NetName=GDRVA|NetColor=$00FFFF66
+Net4=NetName=GDRVP|NetColor=$00FFFF66
+Net5=NetName=GMCUA|NetColor=$00FFFF66
+Net6=NetName=GND|NetColor=$00FFFF66
+Net7=NetName=GNTC|NetColor=$00FFFF66
+Net8=NetName=VBAT|NetColor=$00CC33FF
+Net9=NetName=VDBG|NetColor=$00CC33FF
+Net10=NetName=VDBG_5V|NetColor=$00CC33FF
+Net11=NetName=VDBG_C|NetColor=$00CC33FF
+Net12=NetName=VEMMC|NetColor=$00CC33FF
+Net13=NetName=VENC|NetColor=$00CC33FF
+Net14=NetName=VLCD|NetColor=$00CC33FF
+Net15=NetName=VLCD_BL|NetColor=$00CC33FF
+Net16=NetName=VMCU|NetColor=$00CC33FF
+Net17=NetName=VMCUA|NetColor=$00CC33FF
+Net18=NetName=VMOT|NetColor=$00CC33FF
+Net19=NetName=VNOR|NetColor=$00CC33FF
+Net20=NetName=VNTC|NetColor=$00CC33FF
+Net21=NetName=VREF+|NetColor=$00CC33FF
+Net22=NetName=VSDRAM|NetColor=$00CC33FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
