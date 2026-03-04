@@ -1447,7 +1447,7 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+3V3|NetColor=$00CC33FF
-Net2=NetName=+5V|NetColor=$00CC33FF
+Net2=NetName=+5V|NetColor=$000099FF
 Net3=NetName=GDRVA|NetColor=$00FFFF66
 Net4=NetName=GDRVP|NetColor=$00FFFF66
 Net5=NetName=GMCUA|NetColor=$00FFFF66
@@ -1455,12 +1455,12 @@ Net6=NetName=GND|NetColor=$00FFFF66
 Net7=NetName=GNTC|NetColor=$00FFFF66
 Net8=NetName=VBAT|NetColor=$00CC33FF
 Net9=NetName=VDBG|NetColor=$00CC33FF
-Net10=NetName=VDBG_5V|NetColor=$00CC33FF
+Net10=NetName=VDBG_5V|NetColor=$000099FF
 Net11=NetName=VDBG_C|NetColor=$00CC33FF
 Net12=NetName=VEMMC|NetColor=$00CC33FF
 Net13=NetName=VENC|NetColor=$00CC33FF
 Net14=NetName=VLCD|NetColor=$00CC33FF
-Net15=NetName=VLCD_BL|NetColor=$00CC33FF
+Net15=NetName=VLCD_BL|NetColor=$000099FF
 Net16=NetName=VMCU|NetColor=$00CC33FF
 Net17=NetName=VMCUA|NetColor=$00CC33FF
 Net18=NetName=VMOT|NetColor=$00CC33FF
