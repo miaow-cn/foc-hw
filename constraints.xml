@@ -6647,7 +6647,10 @@
       <CXNets />
     </CXNetClass>
     <CXNetClass Id="a4faa794-7d45-4231-97c6-cabfe8a3b8bb" Name="XNCLS_SDRAM_ADR" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="999a43e6-eae1-4532-ba2c-b7fae268ca9c" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_SDRAM_ADR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="f189701d-1ee5-4811-94d7-25d116ffcb26" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_SDRAM_ADR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6668,7 +6671,10 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="8305cfc4-b875-4be6-b389-94b4bd701d69" Name="XNCLS_SDRAM_CLK" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="dc875a70-a70d-4b3e-88cc-4bd344aeafee" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_SDRAM_CLK')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="9e911548-cadb-4eb3-8b74-4a5ee59b0a3b" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_SDRAM_CLK')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6676,7 +6682,10 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="6c309b4d-f098-4fcb-aed3-9378000a5f04" Name="XNCLS_NOR" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="e4ef01e5-3803-47fc-8c2a-925b645718d5" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_NOR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="83f32560-e0c1-4500-b717-cee46c530d29" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_NOR')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6693,7 +6702,10 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="b506eccb-9c44-46f1-b909-e48ae57fbd61" Name="XNCLS_SDRAM_CTL" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="98d4b7a3-b668-4577-8f3c-b62fc624f988" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_SDRAM_CTL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="8dbfab55-6d06-4eee-8129-94b4f0f75b87" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_SDRAM_CTL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6707,7 +6719,10 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="34d047d4-0f65-43ad-8a70-ba17498c4286" Name="XNCLS_SDRAM_DAT" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="412e54a8-01f1-4edb-a508-6468b2677905" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_SDRAM_DAT')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="501bd980-cd8c-4417-a39e-f1671b0599a6" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_SDRAM_DAT')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6752,7 +6767,10 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="8fb51e98-6943-4857-9706-cd2946bdbba4" Name="XNCLS_EMMC" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="fe1fbfd8-81f8-41f0-a9f3-90aa9fee0349" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_EMMC')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+        <Constraint Id="abebfdc1-46c6-4e8d-8147-9de04d213f28" Kind="3" Name="Schematic Length Constraint" Comment="" Description="Length Constraint [Min Length = 0mil    Max Length = 4724.409mil]" Scope1="InxNetClass('XNCLS_EMMC')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=4724.4094mil|MINLIMIT=0mil|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6816,7 +6834,9 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="39da9573-83bd-4a6d-b40f-5edbe46f73d3" Name="XNCLS_DBG_TRACE" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="3430753c-0ff2-4a4a-9b40-753a38877624" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_DBG_TRACE')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
@@ -6831,7 +6851,9 @@
       </CXNets>
     </CXNetClass>
     <CXNetClass Id="3f5c5db3-08f8-4f3c-bf15-a20aaaa4dcc3" Name="XNCLS_DBG_BUS" IsPredefined="false">
-      <Constraints />
+      <Constraints>
+        <Constraint Id="9642908c-f45a-42f8-95d8-857b07f37eb7" Kind="33" Name="Schematic Impedance Constraint" Comment="" Description="Impedance Constraint [Min = 45.00    Max = 55.00    ]" Scope1="InxNetClass('XNCLS_DBG_BUS')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MINIMUM=45.00|MAXIMUM=55.00|DOC=miaow-foc-board.pcbdoc" />
+      </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <CXNets>
