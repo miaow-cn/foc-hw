@@ -54,7 +54,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=sch\top.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -71,7 +71,7 @@ DocumentUniqueId=ISMYXXWK
 
 [Document2]
 DocumentPath=sch\power.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -88,7 +88,7 @@ DocumentUniqueId=FSOWYKHY
 
 [Document3]
 DocumentPath=sch\ram.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -105,7 +105,7 @@ DocumentUniqueId=RJZPKAXY
 
 [Document4]
 DocumentPath=sch\emmc.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -122,7 +122,7 @@ DocumentUniqueId=ELSSGQTB
 
 [Document5]
 DocumentPath=sch\flash.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -139,7 +139,7 @@ DocumentUniqueId=ETQYZJQT
 
 [Document6]
 DocumentPath=sch\mcu-power.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1200
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -156,7 +156,7 @@ DocumentUniqueId=NQPMUXRR
 
 [Document7]
 DocumentPath=sch\mcu-io.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1300
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -173,7 +173,7 @@ DocumentUniqueId=TFOHEUJP
 
 [Document8]
 DocumentPath=sch\lcd.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -190,7 +190,7 @@ DocumentUniqueId=JCFKONWE
 
 [Document9]
 DocumentPath=sch\debug.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=700
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -207,7 +207,7 @@ DocumentUniqueId=GABJUGWH
 
 [Document10]
 DocumentPath=sch\tempature.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=800
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -224,7 +224,7 @@ DocumentUniqueId=EVIASPVX
 
 [Document11]
 DocumentPath=sch\motor-driver.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=900
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -241,7 +241,7 @@ DocumentUniqueId=BCKWJDXA
 
 [Document12]
 DocumentPath=sch\encoder.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1000
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -258,7 +258,7 @@ DocumentUniqueId=QTOCUECS
 
 [Document13]
 DocumentPath=sch\mcu.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -1446,28 +1446,29 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+3V3|NetColor=$00CC33FF
-Net2=NetName=+5V|NetColor=$000099FF
+Net1=NetName=+3V3|NetColor=$003B9FFF
+Net2=NetName=+5V|NetColor=$000082FF
 Net3=NetName=GDRVA|NetColor=$00FFFF66
-Net4=NetName=GDRVP|NetColor=$00FFFF66
+Net4=NetName=GDRVP|NetColor=clAqua
 Net5=NetName=GMCUA|NetColor=$00FFFF66
 Net6=NetName=GND|NetColor=$00FFFF66
 Net7=NetName=GNTC|NetColor=$00FFFF66
-Net8=NetName=VBAT|NetColor=$00CC33FF
-Net9=NetName=VDBG|NetColor=$00CC33FF
-Net10=NetName=VDBG_5V|NetColor=$000099FF
+Net8=NetName=VBAT|NetColor=$00FF92FF
+Net9=NetName=VDBG|NetColor=$003B9FFF
+Net10=NetName=VDBG_5V|NetColor=$000082FF
 Net11=NetName=VDBG_C|NetColor=$00CC33FF
-Net12=NetName=VEMMC|NetColor=$00CC33FF
-Net13=NetName=VENC|NetColor=$00CC33FF
-Net14=NetName=VLCD|NetColor=$00CC33FF
-Net15=NetName=VLCD_BL|NetColor=$000099FF
-Net16=NetName=VMCU|NetColor=$00CC33FF
-Net17=NetName=VMCUA|NetColor=$00CC33FF
-Net18=NetName=VMOT|NetColor=$00CC33FF
-Net19=NetName=VNOR|NetColor=$00CC33FF
-Net20=NetName=VNTC|NetColor=$00CC33FF
-Net21=NetName=VREF+|NetColor=$00CC33FF
-Net22=NetName=VSDRAM|NetColor=$00CC33FF
+Net12=NetName=VEMMC|NetColor=$003B9FFF
+Net13=NetName=VENC|NetColor=$003B9FFF
+Net14=NetName=VIN|NetColor=$00FF92FF
+Net15=NetName=VLCD|NetColor=$003B9FFF
+Net16=NetName=VLCD_BL|NetColor=$000082FF
+Net17=NetName=VMCU|NetColor=$003B9FFF
+Net18=NetName=VMCUA|NetColor=$00CC33FF
+Net19=NetName=VMOT|NetColor=$00FF92FF
+Net20=NetName=VNOR|NetColor=$003B9FFF
+Net21=NetName=VNTC|NetColor=$003B9FFF
+Net22=NetName=VREF+|NetColor=$00CC33FF
+Net23=NetName=VSDRAM|NetColor=$003B9FFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
