@@ -529,7 +529,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OUHGWGWA
 
 [Document29]
-DocumentPath=bom\miaow-foc-board.BomDoc
+DocumentPath=bom\miaow-foc-board.bomdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -546,7 +546,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=bom\miaow-foc-board.PCBDwf
+DocumentPath=miaow-foc-board.pcbdwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NZALKHCW
+DocumentUniqueId=AWSJJCJH
 
 [ProjectVariant1]
 UniqueId=cd68d0cf-1c21-49ab-b0d2-58b90d9a951d
