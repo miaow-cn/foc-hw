@@ -529,23 +529,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OUHGWGWA
 
 [Document29]
-DocumentPath=bom\miaow-foc-board.bomdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document30]
 DocumentPath=miaow-foc-board.pcbdwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,6 +545,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWSJJCJH
 
+[Document30]
+DocumentPath=miaow-foc-board.outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=miaow-foc-board.bomdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=cd68d0cf-1c21-49ab-b0d2-58b90d9a951d
 Description=Variant of miaow-foc-board
@@ -570,10 +587,6 @@ ParameterCount=0
 VariationCount=1
 Variation1=Designator=R202|UniqueId=\PWRHCSSZ\IHEADVHE|Kind=1|AlternatePart=
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=out\Move Component(s) Origin To Grid - miaow-foc-board.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
