@@ -274,7 +274,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QMWUJOUH
 
 [Document14]
-DocumentPath=miaow-foc-board.Annotation
+DocumentPath=miaow-foc-board.annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -478,7 +478,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SPCOHXLI
 
 [Document26]
-DocumentPath=Constraints.xml
+DocumentPath=constraints.xml
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -495,7 +495,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=sch\encoder.Harness
+DocumentPath=sch\encoder.harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
