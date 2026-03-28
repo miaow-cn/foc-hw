@@ -1,20 +1,3 @@
-----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: miaow-foc-board.pcbdoc   2026/3/28  11:22:26
-----------------------------------------------------------------------------------------------------------------------------------
-
-Layer Pair : SIG1 to SIG6
-ASCII RoundHoles File : miaow-foc-board-RoundHoles.TXT
-ASCII SlotHoles File : miaow-foc-board-SlotHoles.TXT
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             1697      PTH        110.20inch (2799.13mm)
-T2      39mil (1mm)                                               Slot              2         PTH        1.14inch (29.04mm)
-T3      114mil (2.9mm)                                            Round             2         PTH        0.28inch (7.20mm)
-T4      63mil (1.6mm)                                             Round             2         NPTH       1.01inch (25.60mm)
-T5      126mil (3.2mm)                                            Round             6         NPTH       9.84inch (250.01mm)
-T6      173mil (4.4mm)                                            Round             3         NPTH       0.69inch (17.60mm)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1712
-
-Total Processing Time (hh:mm:ss) : 00:00:00
+version https://git-lfs.github.com/spec/v1
+oid sha256:80caefbe25e610dee939e6474d5a7533cb3df4455748151852e86e8783d1daea
+size 1752
