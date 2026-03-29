@@ -3889,6 +3889,24 @@
         <string>\DYAITDVS\DEFQGWGO-32</string>
       </Primitives>
     </CPinPair>
+    <CPinPair Id="990d170d-27be-4318-b4f5-3dc597bbdf0c" Name="DBG_SCL_U1200-R16_U712-2" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R16</string>
+        <string>\CBKPPJPH\EBVZWMOG-2</string>
+      </Primitives>
+    </CPinPair>
+    <CPinPair Id="b57bdf43-a73e-4b35-b76e-674cae3c7721" Name="DBG_SDA_U1200-R17_U712-3" IsSource="true">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <Primitives>
+        <string>\FJKBFAHS\KDDCDOBS\CNPGPFSL-R17</string>
+        <string>\CBKPPJPH\EBVZWMOG-3</string>
+      </Primitives>
+    </CPinPair>
   </CPinPairs>
   <CxSigClasses>
     <CxSigClass Id="9565eb8f-ebad-4e60-bc73-4d408b095e68" Name="XCLS_SDRAM_ADR" IsPredefined="false">
@@ -4019,6 +4037,8 @@
         <CPinPair Id="5bbcf8c6-1bc5-4c33-8caf-dfc3f370a6c3" />
         <CPinPair Id="6018d09e-59a7-44cb-8488-dee84990c08c" />
         <CPinPair Id="2ae08f00-ecb2-4a83-915f-ea87becc259a" />
+        <CPinPair Id="990d170d-27be-4318-b4f5-3dc597bbdf0c" />
+        <CPinPair Id="b57bdf43-a73e-4b35-b76e-674cae3c7721" />
       </CPinPairs>
     </CxSigClass>
     <CxSigClass Id="ac51f177-ad30-4f2e-b22b-2f79fef33825" Name="XCLS_LCD_CTL" IsPredefined="false">
@@ -5659,13 +5679,13 @@
     </CxNet>
     <CxNet Id="df9f00f7-e292-42b0-b00a-c04692e8e140" Name="DBG_SCL">
       <Constraints>
-        <Constraint Id="2c041034-81c0-4b86-a8e6-c47360b27775" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_SCL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\EBVZWMOG,2,2,1|INCLASSES=0,XCLS_DBG_BUS|SELECTEDPINPAIRS=0" />
+        <Constraint Id="2c041034-81c0-4b86-a8e6-c47360b27775" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_SCL')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\EBVZWMOG,2,2,1|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="3f72facc-66ec-4bd8-9681-5795bc2d3082" PinUniqueId="FBDJOWGR" ComponentUniqueId="\CBKPPJPH\EBVZWMOG" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="68caa924-cc50-4ee1-ac0f-ea3f2f1ebfec" PinUniqueId="ETFEHZZG" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="764b3959-a191-4120-a3d3-03662436943b" PinUniqueId="SFJTOHUS" ComponentUniqueId="\CBKPPJPH\EBVZWMOG" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="c657dab9-e1a9-4a6e-a3ea-e6841807dea3" PinUniqueId="XCWJHTDF" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="77e9fbaf-4fda-4c55-addd-624607d716fb" />
@@ -5691,13 +5711,13 @@
     </CxNet>
     <CxNet Id="8db73ba9-d220-4259-a135-162778596de4" Name="DBG_SDA">
       <Constraints>
-        <Constraint Id="26dd7585-4edf-4c8f-a1e1-a228f324dbc4" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_SDA')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\EBVZWMOG,2,2,1|INCLASSES=0,XCLS_DBG_BUS|SELECTEDPINPAIRS=0" />
+        <Constraint Id="26dd7585-4edf-4c8f-a1e1-a228f324dbc4" Kind="7" Name="Schematic Routing Topology" Comment="" Description="Routing Topology [Topology - Custom]" Scope1="InxNet('DBG_SDA')" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Custom|DOC=miaow-foc-board.pcbdoc|COMPONENTS=\FJKBFAHS\KDDCDOBS\CNPGPFSL,1,1,1;\CBKPPJPH\EBVZWMOG,2,2,1|SELECTEDPINPAIRS=0" />
       </Constraints>
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes>
-        <ConstraintNode Id="695ab045-695a-481d-ad06-e0901afacfc5" PinUniqueId="SFJTOHUS" ComponentUniqueId="\CBKPPJPH\EBVZWMOG" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
-        <ConstraintNode Id="528b4a55-b53e-4dd4-a0a8-2a7e9f409089" PinUniqueId="XCWJHTDF" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
+        <ConstraintNode Id="4f90eff0-51cd-4718-ba59-a204df1c0739" PinUniqueId="FBDJOWGR" ComponentUniqueId="\CBKPPJPH\EBVZWMOG" FromToIndex="1" FromToRole="2" FromToOrderId="2" />
+        <ConstraintNode Id="5eeeb1e6-119d-49cb-a020-5448e8552a2f" PinUniqueId="ETFEHZZG" ComponentUniqueId="\FJKBFAHS\KDDCDOBS\CNPGPFSL" FromToIndex="1" FromToRole="1" FromToOrderId="1" />
       </ConstraintNodes>
       <CNets>
         <CNet Id="0dc94418-f668-4ac5-b057-94df7af1682f" />
