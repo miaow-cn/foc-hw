@@ -588,6 +588,22 @@ VariationCount=1
 Variation1=Designator=R202|UniqueId=\PWRHCSSZ\IHEADVHE|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[Parameter1]
+Name=Board
+Value=MIAOW FOC BOARD
+
+[Parameter2]
+Name=Url
+Value=github.com/miaow-cn/foc-hw
+
+[Parameter3]
+Name=Sample
+Value=A1
+
+[Parameter4]
+Name=Liscense
+Value=GPLv3
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
