@@ -1,9 +1,11 @@
 # foc-hw
 My foc driver board
 
-3 shunt, 12V 50A max.
+3 shunt, 12V 40A max.
 
-## power
+<img src="./res/topview.png" alt="topview" style="zoom: 50%;" />
+
+## Power
 
 buck & motor share the 12V supply
 
@@ -12,7 +14,7 @@ buck & motor share the 12V supply
 - [x] protect - bidirectional tvs, smbj15ca
 
 
-## bridge
+## Bridge
 
 - [x] 3-phase bridge driver - drv8323rsrgzr
 - [x] mos - iauc100n04s6n022
@@ -27,3 +29,8 @@ buck & motor share the 12V supply
 - [x] qspi flash - mx25l25645gz2i-08g
 - [x] emmc - klmag2gend-b031
 
+## Acknowledge
+
+<img src="./res/jlc.svg" alt="jlc" align="left" />
+
+[https://www.jlc.com](https://www.jlc.com)
