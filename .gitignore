@@ -19,6 +19,6 @@ Status\ Report.txt
 # Lock files sometimes left behind
 .~lock.*
 
-# ECO Logs
-out/*.LOG
-out/Status Report.Txt
+# out folder
+out/**/*
+!out/**/*.pdf
